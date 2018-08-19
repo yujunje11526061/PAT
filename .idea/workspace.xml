@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1014 Waiting in Line (30) 理解题意，模拟实际场景，优先队列的运用">
-      <change afterPath="$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1144 The Missing Number (20).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。">
+      <change afterPath="$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +20,13 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1145_Hashing___Average_Search_Time__25_.coverage" NAME="1145 Hashing - Average Search Time (25) Coverage Results" MODIFIED="1534577282105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1086_Tree_Traversals_Again__25_.coverage" NAME="1086 Tree Traversals Again (25) Coverage Results" MODIFIED="1534680252282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533564339447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1022_Digital_Library__30_.coverage" NAME="1022 Digital Library (30) Coverage Results" MODIFIED="1534709732633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1003_Emergency__25__.coverage" NAME="1003 Emergency (25) 优化 Coverage Results" MODIFIED="1533656037250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1009_Product_of_Polynomials__25.coverage" NAME="1009 Product of Polynomials (25） Coverage Results" MODIFIED="1533571459424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1019_General_Palindromic_Number__20_.coverage" NAME="1019 General Palindromic Number (20) Coverage Results" MODIFIED="1534685881384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1012_The_Best_Rank__25_.coverage" NAME="1012 The Best Rank (25) Coverage Results" MODIFIED="1534256042500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1146_Topological_Order__25_.coverage" NAME="1146 Topological Order (25) Coverage Results" MODIFIED="1534571305715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1021_Deepest_Root__25_.coverage" NAME="1021 Deepest Root (25) Coverage Results" MODIFIED="1534705797339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1013_Battle_Over_Cities__25_.coverage" NAME="1013 Battle Over Cities (25) Coverage Results" MODIFIED="1534257280577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1147_Heaps__30_.coverage" NAME="1147 Heaps (30) Coverage Results" MODIFIED="1534566852366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1020_Tree_Traversals__25_.coverage" NAME="1020 Tree Traversals (25) Coverage Results" MODIFIED="1534675751578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -34,7 +37,7 @@
     <session id="1338149440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -42,10 +45,11 @@
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,7 +57,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="31" />
+          <entry key="py" value="36" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -61,22 +65,22 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="31" />
+          <entry key="Python" value="36" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1164" />
-          <entry key="py" value="15317" />
-          <entry key="txt" value="202" />
+          <entry key="Python Console" value="1191" />
+          <entry key="py" value="18666" />
+          <entry key="txt" value="253" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="202" />
-          <entry key="Python" value="16481" />
+          <entry key="PLAIN_TEXT" value="253" />
+          <entry key="Python" value="19857" />
         </counts>
       </usages-collector>
     </session>
@@ -84,48 +88,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-              <folding>
-                <marker date="1534579435293" expanded="true" signature="375:380" ph="..." />
-              </folding>
+            <state relative-caret-position="500">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            <state relative-caret-position="1678">
+              <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
               <folding>
-                <marker date="1534676546221" expanded="true" signature="206:342" ph="..." />
-                <marker date="1534676546221" expanded="true" signature="426:431" ph="..." />
-                <marker date="1534676546221" expanded="true" signature="426:705" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="29" column="21" lean-forward="true" selection-end-line="33" />
-              <folding>
-                <marker date="1534680251688" expanded="true" signature="473:478" ph="..." />
+                <marker date="1534705866138" expanded="true" signature="1725:1726" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1144 The Missing Number (20).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="-360">
+              <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <element signature="e#82#317#0" />
+                <marker date="1534709895124" expanded="true" signature="317:392" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="960:1102" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1121:1264" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1261:1264" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1285:1430" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1427:1430" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1452:1598" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1595:1598" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1615:1756" ph="..." />
+                <marker date="1534709895124" expanded="true" signature="1753:1756" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -156,15 +156,18 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1015 Reversible Primes (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1012 The Best Rank (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30) 不建树.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -195,6 +198,9 @@
         <option value="$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1144 The Missing Number (20).py" />
+        <option value="$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" />
+        <option value="$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" />
       </list>
     </option>
   </component>
@@ -226,22 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,6 +248,22 @@
               <item name="PAT Advanced Level" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -292,8 +298,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1144 The Missing Number (20)">
-    <configuration name="1020 Tree Traversals (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1022 Digital Library (30)">
+    <configuration name="1019 General Palindromic Number (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,7 +312,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1021 Deepest Root (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1022 Digital Library (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,64 +409,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1145 Hashing - Average Search Time (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1146 Topological Order (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.1146 Topological Order (25)" />
-      <item itemvalue="Python.1145 Hashing - Average Search Time (25)" />
-      <item itemvalue="Python.1020 Tree Traversals (25)" />
       <item itemvalue="Python.1086 Tree Traversals Again (25)" />
       <item itemvalue="Python.1144 The Missing Number (20)" />
+      <item itemvalue="Python.1019 General Palindromic Number (20)" />
+      <item itemvalue="Python.1021 Deepest Root (25)" />
+      <item itemvalue="Python.1022 Digital Library (30)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1022 Digital Library (30)" />
+        <item itemvalue="Python.1021 Deepest Root (25)" />
+        <item itemvalue="Python.1019 General Palindromic Number (20)" />
         <item itemvalue="Python.1144 The Missing Number (20)" />
         <item itemvalue="Python.1086 Tree Traversals Again (25)" />
-        <item itemvalue="Python.1020 Tree Traversals (25)" />
-        <item itemvalue="Python.1145 Hashing - Average Search Time (25)" />
-        <item itemvalue="Python.1146 Topological Order (25)" />
       </list>
     </recent_temporary>
   </component>
@@ -473,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534579678731</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。">
+      <created>1534684612864</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534684612864</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -494,11 +507,11 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008143" side_tool="true" weight="0.32686415" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="12" sideWeight="0.499501" weight="0.26789367" />
+      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="12" sideWeight="0.499501" weight="0.26787513" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.16766468" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.16916168" />
       <window_info anchor="right" id="SciView" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -546,7 +559,8 @@
     <MESSAGE value="1016 Phone Bills (25) 统计信息的处理计算，略繁琐，题意有坑，意义不大" />
     <MESSAGE value="1014 Waiting in Line (30) 理解题意，模拟实际场景，优先队列的运用" />
     <MESSAGE value="1145 Hashing - Average Search Time 平方探测法散列&#10;1146 Topological Order 检查是否时拓扑序列&#10;1147 Heaps 堆的判定以及后续遍历。不建树更快。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1145 Hashing - Average Search Time 平方探测法散列&#10;1146 Topological Order 检查是否时拓扑序列&#10;1147 Heaps 堆的判定以及后续遍历。不建树更快。" />
+    <MESSAGE value="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -651,13 +665,6 @@
       </provider>
     </entry>
     <entry file="file://D:/Professional Software/Python3/Lib/codecs.py" />
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="499" column="4" selection-start-line="499" selection-start-column="4" selection-end-line="499" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1015 Reversible Primes (20).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -695,13 +702,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/解题目录.html" />
     <entry file="file://$PROJECT_DIR$/Advanced/解题目录.md" />
-    <entry file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
@@ -751,13 +751,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1144 The Missing Number (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <marker date="1534579435293" expanded="true" signature="375:380" ph="..." />
-          </folding>
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="29" column="21" lean-forward="true" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -765,28 +769,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1678">
+          <caret line="95" column="16" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
           <folding>
-            <marker date="1534676546221" expanded="true" signature="206:342" ph="..." />
-            <marker date="1534676546221" expanded="true" signature="426:431" ph="..." />
-            <marker date="1534676546221" expanded="true" signature="426:705" ph="..." />
+            <marker date="1534705866138" expanded="true" signature="1725:1726" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="29" column="21" lean-forward="true" selection-end-line="33" />
-          <folding>
-            <marker date="1534680251688" expanded="true" signature="473:478" ph="..." />
-          </folding>
+        <state relative-caret-position="333">
+          <caret line="5100" column="8" selection-start-line="5100" selection-start-column="8" selection-end-line="5100" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1144 The Missing Number (20).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="-360">
+          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#82#317#0" />
+            <marker date="1534709895124" expanded="true" signature="317:392" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="960:1102" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1121:1264" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1261:1264" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1285:1430" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1427:1430" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1452:1598" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1595:1598" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1615:1756" ph="..." />
+            <marker date="1534709895124" expanded="true" signature="1753:1756" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
