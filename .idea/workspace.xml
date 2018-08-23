@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1127 ZigZagging on a Tree 根据两种序建树应非常熟练。往返层序遍历用两个堆栈交替使用，一个栈一层，每层左右孩子入栈次序相反。&#10;1025 和 1028 硬排序问题，python容易超时。">
-      <change afterPath="$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25) 贪心算法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1033 To Fill or Not to Fill 贪心算法，走一步看一步，不同情况不同策略。">
+      <change afterPath="$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 直接排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1070 Mooncake  (25).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +20,15 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1027_Colors_in_Mars__20_.coverage" NAME="1027 Colors in Mars (20) Coverage Results" MODIFIED="1534749974869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1009_Product_of_Polynomials__25.coverage" NAME="1009 Product of Polynomials (25） Coverage Results" MODIFIED="1533571459424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1024_Palindromic_Number__25_.coverage" NAME="1024 Palindromic Number (25) Coverage Results" MODIFIED="1534715297550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30_.coverage" NAME="1038 Recover the Smallest Number (30) Coverage Results" MODIFIED="1535043003415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1030_Travel_Plan__30_.coverage" NAME="1030 Travel Plan (30) Coverage Results" MODIFIED="1534952232886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1033_To_Fill_or_Not_to_Fill__25_.coverage" NAME="1033 To Fill or Not to Fill (25) Coverage Results" MODIFIED="1535029605659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1019_General_Palindromic_Number__20_.coverage" NAME="1019 General Palindromic Number (20) Coverage Results" MODIFIED="1534685881384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1033_To_Fill_or_Not_to_Fill__25__.coverage" NAME="1033 To Fill or Not to Fill (25) 贪心算法 Coverage Results" MODIFIED="1535029529555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1127_ZigZagging_on_a_Tree.coverage" NAME="1127 ZigZagging on a Tree Coverage Results" MODIFIED="1534783581403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1034_Head_of_a_Gang__30_.coverage" NAME="1034 Head of a Gang (30) Coverage Results" MODIFIED="1534962917729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30__.coverage" NAME="1038 Recover the Smallest Number (30) 直接排序 Coverage Results" MODIFIED="1535044454762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1070_Mooncake___25_.coverage" NAME="1070 Mooncake  (25) Coverage Results" MODIFIED="1535036180665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1021_Deepest_Root__25_.coverage" NAME="1021 Deepest Root (25) Coverage Results" MODIFIED="1534705797339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1018_Public_Bike_Management__30_.coverage" NAME="1018 Public Bike Management (30) Coverage Results" MODIFIED="1534773533940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1013_Battle_Over_Cities__25_.coverage" NAME="1013 Battle Over Cities (25) Coverage Results" MODIFIED="1534257280577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -69,7 +73,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="58" />
+          <entry key="py" value="61" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -77,47 +81,60 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="58" />
+          <entry key="Python" value="61" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1521" />
-          <entry key="py" value="33836" />
-          <entry key="txt" value="590" />
+          <entry key="Python Console" value="1545" />
+          <entry key="dummy" value="15" />
+          <entry key="py" value="36213" />
+          <entry key="txt" value="621" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="590" />
-          <entry key="Python" value="35357" />
+          <entry key="PLAIN_TEXT" value="636" />
+          <entry key="Python" value="37758" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25).py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/1070 Mooncake  (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-              <folding>
-                <marker date="1535030012130" expanded="true" signature="871:876" ph="..." />
-                <marker date="1535030012130" expanded="true" signature="1519:1718" ph="..." />
-                <marker date="1535030012130" expanded="true" signature="1816:2643" ph="..." />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="5" column="24" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25) 贪心算法.py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="386">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <marker date="1535044929046" expanded="true" signature="372:377" ph="..." />
+                <marker date="1535044929046" expanded="true" signature="587:1540" ph="..." />
+                <marker date="1535044929046" expanded="true" signature="1260:1327" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 直接排序.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <marker date="1535044928986" expanded="true" signature="400:522" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,6 +184,7 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1015 Reversible Primes (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1012 The Best Rank (25).py" root0="SKIP_INSPECTION" />
@@ -224,6 +242,10 @@
         <option value="$PROJECT_DIR$/Advanced/1034 Head of a Gang (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25) 贪心算法.py" />
         <option value="$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1070 Mooncake  (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30).py" />
+        <option value="$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" />
+        <option value="$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 直接排序.py" />
       </list>
     </option>
   </component>
@@ -322,29 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1033 To Fill or Not to Fill (25)">
-    <configuration name="1030 Travel Plan (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1030 Travel Plan (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1038 Recover the Smallest Number (30) 直接排序">
     <configuration name="1033 To Fill or Not to Fill (25) 贪心算法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -389,7 +389,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1034 Head of a Gang (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1038 Recover the Smallest Number (30) 直接排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,7 +402,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1034 Head of a Gang (30).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 直接排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,7 +411,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1127 ZigZagging on a Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1038 Recover the Smallest Number (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -424,7 +424,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1127 ZigZagging on a Tree.py" />
+      <option name="SCRIPT_NAME" value="D:\CS\PAT\Advanced\1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1070 Mooncake  (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1070 Mooncake  (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -434,19 +456,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1127 ZigZagging on a Tree" />
-      <item itemvalue="Python.1030 Travel Plan (30)" />
-      <item itemvalue="Python.1034 Head of a Gang (30)" />
       <item itemvalue="Python.1033 To Fill or Not to Fill (25)" />
       <item itemvalue="Python.1033 To Fill or Not to Fill (25) 贪心算法" />
+      <item itemvalue="Python.1070 Mooncake  (25)" />
+      <item itemvalue="Python.1038 Recover the Smallest Number (30)" />
+      <item itemvalue="Python.1038 Recover the Smallest Number (30) 直接排序" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1038 Recover the Smallest Number (30) 直接排序" />
+        <item itemvalue="Python.1038 Recover the Smallest Number (30)" />
+        <item itemvalue="Python.1070 Mooncake  (25)" />
         <item itemvalue="Python.1033 To Fill or Not to Fill (25)" />
         <item itemvalue="Python.1033 To Fill or Not to Fill (25) 贪心算法" />
-        <item itemvalue="Python.1034 Head of a Gang (30)" />
-        <item itemvalue="Python.1030 Travel Plan (30)" />
-        <item itemvalue="Python.1127 ZigZagging on a Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -552,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534999051506</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1033 To Fill or Not to Fill 贪心算法，走一步看一步，不同情况不同策略。">
+      <created>1535030069337</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535030069337</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -573,7 +602,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008143" side_tool="true" weight="0.32686415" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="12" sideWeight="0.499501" weight="0.33333334" />
+      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="12" sideWeight="0.499501" weight="0.20946626" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -632,7 +661,8 @@
     <MESSAGE value="1127 ZigZagging on a Tree 根据两种序建树应非常熟练。往返层序遍历用两个堆栈交替使用，一个栈一层，每层左右孩子入栈次序相反。&#10;1025 和 1028 硬排序问题，python容易超时。" />
     <MESSAGE value="1030 Travel Plan 单源多权值最短路径问题。不如1018复杂" />
     <MESSAGE value="1034 Head of a Gang 并查集，也可并查集+DFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="1034 Head of a Gang 并查集，也可并查集+DFS" />
+    <MESSAGE value="1033 To Fill or Not to Fill 贪心算法，走一步看一步，不同情况不同策略。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1033 To Fill or Not to Fill 贪心算法，走一步看一步，不同情况不同策略。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -660,8 +690,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1005 Spell It Right (20).py" />
-    <entry file="file://$PROJECT_DIR$/1008 Elevator (20).py" />
     <entry file="file://$PROJECT_DIR$/1011 World Cup Betting (20).py" />
     <entry file="file://$PROJECT_DIR$/Advanced/1002 A+B for Polynomials (25).py">
       <provider selected="true" editor-type-id="text-editor">
@@ -978,12 +1006,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        <state relative-caret-position="880">
+          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
           <folding>
             <marker date="1535030012130" expanded="true" signature="871:876" ph="..." />
             <marker date="1535030012130" expanded="true" signature="1519:1718" ph="..." />
             <marker date="1535030012130" expanded="true" signature="1816:2643" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1070 Mooncake  (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="24" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1535044929046" expanded="true" signature="372:377" ph="..." />
+            <marker date="1535044929046" expanded="true" signature="587:1540" ph="..." />
+            <marker date="1535044929046" expanded="true" signature="1260:1327" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 直接排序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <marker date="1535044928986" expanded="true" signature="400:522" ph="..." />
           </folding>
         </state>
       </provider>
