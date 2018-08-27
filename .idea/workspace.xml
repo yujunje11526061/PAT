@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1026 巨坑连连，细节很多的模拟题&#10;1040 动态规划">
-      <change afterPath="$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1037 Magic Coupon (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1039 Course List for Student (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1040 Longest Symmetric String (25).py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,12 +15,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1031_Hello_World_for_U__20.coverage" NAME="1031 Hello World for U (20 Coverage Results" MODIFIED="1535117614769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1049_Counting_Ones__30_.coverage" NAME="1049 Counting Ones (30) Coverage Results" MODIFIED="1535215264694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1023_Have_Fun_with_Numbers__20_.coverage" NAME="1023 Have Fun with Numbers (20) Coverage Results" MODIFIED="1534714324932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1032_Sharing__25_.coverage" NAME="1032 Sharing (25) Coverage Results" MODIFIED="1535120425345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1040_Longest_Symmetric_String__25_.coverage" NAME="1040 Longest Symmetric String (25) Coverage Results" MODIFIED="1535295614089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1086_Tree_Traversals_Again__25_.coverage" NAME="1086 Tree Traversals Again (25) Coverage Results" MODIFIED="1534680252282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1025_PAT_Ranking__25_.coverage" NAME="1025 PAT Ranking (25) Coverage Results" MODIFIED="1534780512424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1029_Median__25_.coverage" NAME="1029 Median (25) Coverage Results" MODIFIED="1535127510802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1027_Colors_in_Mars__20_.coverage" NAME="1027 Colors in Mars (20) Coverage Results" MODIFIED="1534749974869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -33,37 +27,43 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1033_To_Fill_or_Not_to_Fill__25_.coverage" NAME="1033 To Fill or Not to Fill (25) Coverage Results" MODIFIED="1535029605659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1019_General_Palindromic_Number__20_.coverage" NAME="1019 General Palindromic Number (20) Coverage Results" MODIFIED="1534685881384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1033_To_Fill_or_Not_to_Fill__25__.coverage" NAME="1033 To Fill or Not to Fill (25) 贪心算法 Coverage Results" MODIFIED="1535029529555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1037_Magic_Coupon__25_.coverage" NAME="1037 Magic Coupon (25) Coverage Results" MODIFIED="1535271057165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1127_ZigZagging_on_a_Tree.coverage" NAME="1127 ZigZagging on a Tree Coverage Results" MODIFIED="1534783581403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1036_Boys_vs_Girls__25_.coverage" NAME="1036 Boys vs Girls (25) Coverage Results" MODIFIED="1535129954303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25_.coverage" NAME="1043 Is It a Binary Search Tree (25) Coverage Results" MODIFIED="1535308888946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1034_Head_of_a_Gang__30_.coverage" NAME="1034 Head of a Gang (30) Coverage Results" MODIFIED="1534962917729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30__.coverage" NAME="1038 Recover the Smallest Number (30) 直接排序 Coverage Results" MODIFIED="1535044454762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1070_Mooncake___25_.coverage" NAME="1070 Mooncake  (25) Coverage Results" MODIFIED="1535036180665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25__.coverage" NAME="1043 Is It a Binary Search Tree (25) 改进算法 Coverage Results" MODIFIED="1535377899199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1021_Deepest_Root__25_.coverage" NAME="1021 Deepest Root (25) Coverage Results" MODIFIED="1534705797339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1018_Public_Bike_Management__30_.coverage" NAME="1018 Public Bike Management (30) Coverage Results" MODIFIED="1534773533940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1013_Battle_Over_Cities__25_.coverage" NAME="1013 Battle Over Cities (25) Coverage Results" MODIFIED="1534257280577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1016_Phone_Bills__25_.coverage" NAME="1016 Phone Bills (25) Coverage Results" MODIFIED="1534432603639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1147_Heaps__30__.coverage" NAME="1147 Heaps (30) 不建树 Coverage Results" MODIFIED="1534570229826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1035_Password__20_.coverage" NAME="1035 Password (20) Coverage Results" MODIFIED="1535129880363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1015_Reversible_Primes__20_.coverage" NAME="1015 Reversible Primes (20) Coverage Results" MODIFIED="1534354531020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1044_Shopping_in_Mars__25__.coverage" NAME="1044 Shopping in Mars (25) 二分法 Coverage Results" MODIFIED="1535410814582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1145_Hashing___Average_Search_Time__25_.coverage" NAME="1145 Hashing - Average Search Time (25) Coverage Results" MODIFIED="1534577282105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1026_Table_Tennis__30_.coverage" NAME="1026 Table Tennis (30) Coverage Results" MODIFIED="1535387773033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533564339447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1022_Digital_Library__30_.coverage" NAME="1022 Digital Library (30) Coverage Results" MODIFIED="1534709732633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1042_Shuffling_Machine__20_.coverage" NAME="1042 Shuffling Machine (20) Coverage Results" MODIFIED="1535210917054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1003_Emergency__25__.coverage" NAME="1003 Emergency (25) 优化 Coverage Results" MODIFIED="1533656037250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1017_Queueing_at_Bank__25_.coverage" NAME="1017 Queueing at Bank (25) Coverage Results" MODIFIED="1534713214492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1012_The_Best_Rank__25_.coverage" NAME="1012 The Best Rank (25) Coverage Results" MODIFIED="1534256042500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1146_Topological_Order__25_.coverage" NAME="1146 Topological Order (25) Coverage Results" MODIFIED="1534571305715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1028_List_Sorting__25_.coverage" NAME="1028 List Sorting (25) Coverage Results" MODIFIED="1534780557836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1041_Be_Unique__20_.coverage" NAME="1041 Be Unique (20) Coverage Results" MODIFIED="1535208861356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1039_Course_List_for_Student__25_.coverage" NAME="1039 Course List for Student (25) Coverage Results" MODIFIED="1535295561771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1147_Heaps__30_.coverage" NAME="1147 Heaps (30) Coverage Results" MODIFIED="1534566852366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1020_Tree_Traversals__25_.coverage" NAME="1020 Tree Traversals (25) Coverage Results" MODIFIED="1534675751578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1144_The_Missing_Number__20_.coverage" NAME="1144 The Missing Number (20) Coverage Results" MODIFIED="1534681131970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1014_Waiting_in_Line__30_.coverage" NAME="1014 Waiting in Line (30) Coverage Results" MODIFIED="1534523884466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1031_Hello_World_for_U__20.coverage" NAME="1031 Hello World for U (20 Coverage Results" MODIFIED="1535117614769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1049_Counting_Ones__30_.coverage" NAME="1049 Counting Ones (30) Coverage Results" MODIFIED="1535215264694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1032_Sharing__25_.coverage" NAME="1032 Sharing (25) Coverage Results" MODIFIED="1535120425345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1086_Tree_Traversals_Again__25_.coverage" NAME="1086 Tree Traversals Again (25) Coverage Results" MODIFIED="1534680252282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1044_Shopping_in_Mars__25_.coverage" NAME="1044 Shopping in Mars (25) Coverage Results" MODIFIED="1535397512806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1037_Magic_Coupon__25_.coverage" NAME="1037 Magic Coupon (25) Coverage Results" MODIFIED="1535271057165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1036_Boys_vs_Girls__25_.coverage" NAME="1036 Boys vs Girls (25) Coverage Results" MODIFIED="1535129954303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25_.coverage" NAME="1043 Is It a Binary Search Tree (25) Coverage Results" MODIFIED="1535308888946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1034_Head_of_a_Gang__30_.coverage" NAME="1034 Head of a Gang (30) Coverage Results" MODIFIED="1534962917729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30__.coverage" NAME="1038 Recover the Smallest Number (30) 直接排序 Coverage Results" MODIFIED="1535044454762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1070_Mooncake___25_.coverage" NAME="1070 Mooncake  (25) Coverage Results" MODIFIED="1535036180665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25__.coverage" NAME="1043 Is It a Binary Search Tree (25) 改进算法 Coverage Results" MODIFIED="1535377899199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1018_Public_Bike_Management__30_.coverage" NAME="1018 Public Bike Management (30) Coverage Results" MODIFIED="1534773533940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1013_Battle_Over_Cities__25_.coverage" NAME="1013 Battle Over Cities (25) Coverage Results" MODIFIED="1534257280577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1147_Heaps__30__.coverage" NAME="1147 Heaps (30) 不建树 Coverage Results" MODIFIED="1534570229826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1035_Password__20_.coverage" NAME="1035 Password (20) Coverage Results" MODIFIED="1535129880363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1015_Reversible_Primes__20_.coverage" NAME="1015 Reversible Primes (20) Coverage Results" MODIFIED="1534354531020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1026_Table_Tennis__30_.coverage" NAME="1026 Table Tennis (30) Coverage Results" MODIFIED="1535387773033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1003_Emergency__25__.coverage" NAME="1003 Emergency (25) 优化 Coverage Results" MODIFIED="1533656037250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1017_Queueing_at_Bank__25_.coverage" NAME="1017 Queueing at Bank (25) Coverage Results" MODIFIED="1534713214492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1012_The_Best_Rank__25_.coverage" NAME="1012 The Best Rank (25) Coverage Results" MODIFIED="1534256042500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1028_List_Sorting__25_.coverage" NAME="1028 List Sorting (25) Coverage Results" MODIFIED="1534780557836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1338149440">
@@ -90,7 +90,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="89" />
+          <entry key="py" value="93" />
           <entry key="pyi" value="2" />
           <entry key="xml" value="1" />
         </counts>
@@ -99,7 +99,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="89" />
+          <entry key="Python" value="93" />
           <entry key="PythonStub" value="2" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -107,30 +107,54 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2129" />
-          <entry key="dummy" value="15" />
-          <entry key="py" value="48611" />
-          <entry key="txt" value="870" />
+          <entry key="Python Console" value="2264" />
+          <entry key="dummy" value="25" />
+          <entry key="py" value="50783" />
+          <entry key="txt" value="896" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="885" />
-          <entry key="Python" value="50740" />
+          <entry key="PLAIN_TEXT" value="921" />
+          <entry key="Python" value="53047" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-              <folding>
-                <element signature="e#45#63#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
             </state>
           </provider>
         </entry>
@@ -191,12 +215,14 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1040 Longest Symmetric String (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1015 Reversible Primes (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1012 The Best Rank (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30) 不建树.py" root0="SKIP_INSPECTION" />
@@ -216,8 +242,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1009 Product of Polynomials (25）.py" />
-        <option value="$PROJECT_DIR$/Advanced/1004 Counting Leaves (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1003 Emergency (25) 优化.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Advanced/1012 The Best Rank (25).py" />
@@ -267,6 +291,8 @@
         <option value="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py" />
         <option value="$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py" />
+        <option value="$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py" />
       </list>
     </option>
   </component>
@@ -365,7 +391,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1026 Table Tennis (30)">
+  <component name="RunManager" selected="Python.1044 Shopping in Mars (25) 二分法">
     <configuration name="1026 Table Tennis (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -380,50 +406,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1039 Course List for Student (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1039 Course List for Student (25).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1040 Longest Symmetric String (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1040 Longest Symmetric String (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,20 +458,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1044 Shopping in Mars (25) 二分法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1044 Shopping in Mars (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\CS\PAT\Advanced\1044 Shopping in Mars (25) 简单模拟+动态规划.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1039 Course List for Student (25)" />
-      <item itemvalue="Python.1040 Longest Symmetric String (25)" />
       <item itemvalue="Python.1043 Is It a Binary Search Tree (25)" />
       <item itemvalue="Python.1043 Is It a Binary Search Tree (25) 改进算法" />
       <item itemvalue="Python.1026 Table Tennis (30)" />
+      <item itemvalue="Python.1044 Shopping in Mars (25)" />
+      <item itemvalue="Python.1044 Shopping in Mars (25) 二分法" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1044 Shopping in Mars (25) 二分法" />
+        <item itemvalue="Python.1044 Shopping in Mars (25)" />
         <item itemvalue="Python.1026 Table Tennis (30)" />
         <item itemvalue="Python.1043 Is It a Binary Search Tree (25) 改进算法" />
         <item itemvalue="Python.1043 Is It a Binary Search Tree (25)" />
-        <item itemvalue="Python.1040 Longest Symmetric String (25)" />
-        <item itemvalue="Python.1039 Course List for Student (25)" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535216757081</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="1026 巨坑连连，细节很多的模拟题&#10;1037 简单的贪心&#10;1039 分类，映射，排序&#10;1040 动态规划">
+      <created>1535388717161</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1535388717161</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -632,8 +665,8 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Run" order="2" visible="true" weight="0.1735925" />
-      <window_info id="Debug" order="3" weight="0.48123324" />
+      <window_info active="true" id="Run" order="2" visible="true" weight="0.35254693" />
+      <window_info id="Debug" order="3" weight="0.31769437" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
@@ -641,14 +674,14 @@
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32930514" />
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49918568" weight="0.45106384" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008143" side_tool="true" weight="0.32686415" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008143" side_tool="true" weight="0.32624114" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.499501" weight="0.26666668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.21380697" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.21380697" />
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -707,7 +740,8 @@
     <MESSAGE value="1070. Mooncake 直接贪心&#10;1038. Recover the Smallest Number 想到是排序规则的变形就好做。" />
     <MESSAGE value=" 低分值的题仔细读题。尤其输出是对输出的要求，看清楚要输出什么，单复数等。单复数问题经常出现。一部仔细就错了" />
     <MESSAGE value="1041 序列中找到一个不重复的元素，生成器，有序字典&#10;1042 两个容器倒来倒去，类似归并的并，可以直接交换引用对象来简化理解&#10;1049 数学问题，通过数学递推式来优化时间，无脑遍历必超时。math库的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="1041 序列中找到一个不重复的元素，生成器，有序字典&#10;1042 两个容器倒来倒去，类似归并的并，可以直接交换引用对象来简化理解&#10;1049 数学问题，通过数学递推式来优化时间，无脑遍历必超时。math库的使用" />
+    <MESSAGE value="1026 巨坑连连，细节很多的模拟题&#10;1037 简单的贪心&#10;1039 分类，映射，排序&#10;1040 动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="1026 巨坑连连，细节很多的模拟题&#10;1037 简单的贪心&#10;1039 分类，映射，排序&#10;1040 动态规划" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -727,6 +761,11 @@
           <line>52</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -740,34 +779,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="39" column="18" lean-forward="true" selection-end-line="74" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1144 The Missing Number (20).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1678">
@@ -1096,6 +1107,34 @@
           <folding>
             <element signature="e#45#63#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="1663" selection-start-line="1663" selection-end-line="1663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="36" column="30" lean-forward="true" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
         </state>
       </provider>
     </entry>
