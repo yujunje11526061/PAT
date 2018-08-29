@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1043 利用二叉搜索树的特性，直接进行前后序遍历转换">
-      <change afterPath="$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1048 Find Coins (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1050 String Subtraction (20).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1046 1047 1048 1050 都是卡时间的题。用辅助数据结构优化时间。1048的优化方法需要熟练使用。">
+      <change afterPath="$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +32,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1021_Deepest_Root__25_.coverage" NAME="1021 Deepest Root (25) Coverage Results" MODIFIED="1534705797339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1016_Phone_Bills__25_.coverage" NAME="1016 Phone Bills (25) Coverage Results" MODIFIED="1534432603639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1044_Shopping_in_Mars__25__.coverage" NAME="1044 Shopping in Mars (25) 二分法 Coverage Results" MODIFIED="1535410814582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1052_Linked_List_Sorting__25_.coverage" NAME="1052 Linked List Sorting (25) Coverage Results" MODIFIED="1535527548712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1145_Hashing___Average_Search_Time__25_.coverage" NAME="1145 Hashing - Average Search Time (25) Coverage Results" MODIFIED="1534577282105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533564339447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1022_Digital_Library__30_.coverage" NAME="1022 Digital Library (30) Coverage Results" MODIFIED="1534709732633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -61,9 +61,11 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1013_Battle_Over_Cities__25_.coverage" NAME="1013 Battle Over Cities (25) Coverage Results" MODIFIED="1534257280577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1147_Heaps__30__.coverage" NAME="1147 Heaps (30) 不建树 Coverage Results" MODIFIED="1534570229826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1035_Password__20_.coverage" NAME="1035 Password (20) Coverage Results" MODIFIED="1535129880363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1051_Pop_Sequence__25_.coverage" NAME="1051 Pop Sequence (25) Coverage Results" MODIFIED="1535525436793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1015_Reversible_Primes__20_.coverage" NAME="1015 Reversible Primes (20) Coverage Results" MODIFIED="1534354531020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1050_String_Subtraction__20_.coverage" NAME="1050 String Subtraction (20) Coverage Results" MODIFIED="1535477307374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1026_Table_Tennis__30_.coverage" NAME="1026 Table Tennis (30) Coverage Results" MODIFIED="1535387773033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1053_Path_of_Equal_Weight.coverage" NAME="1053 Path of Equal Weight Coverage Results" MODIFIED="1535530406312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1003_Emergency__25__.coverage" NAME="1003 Emergency (25) 优化 Coverage Results" MODIFIED="1533656037250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1047_Student_List_for_Course__25_.coverage" NAME="1047 Student List for Course (25) Coverage Results" MODIFIED="1535481565224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1017_Queueing_at_Bank__25_.coverage" NAME="1017 Queueing at Bank (25) Coverage Results" MODIFIED="1534713214492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -74,7 +76,7 @@
     <session id="1338149440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -85,10 +87,11 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.opened" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,7 +99,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="101" />
+          <entry key="py" value="108" />
           <entry key="pyi" value="2" />
           <entry key="xml" value="1" />
         </counts>
@@ -105,7 +108,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="101" />
+          <entry key="Python" value="108" />
           <entry key="PythonStub" value="2" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -113,63 +116,45 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2272" />
+          <entry key="Python Console" value="2296" />
           <entry key="dummy" value="25" />
-          <entry key="py" value="55340" />
-          <entry key="txt" value="970" />
+          <entry key="py" value="57313" />
+          <entry key="txt" value="1030" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="995" />
-          <entry key="Python" value="57612" />
+          <entry key="PLAIN_TEXT" value="1055" />
+          <entry key="Python" value="59609" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1050 String Subtraction (20).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" selection-start-line="2" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1048 Find Coins (25).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="355">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="515">
+              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -215,20 +200,17 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1041 Be Unique (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1024 Palindromic Number (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1036 Boys vs Girls (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1039 Course List for Student (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1037 Magic Coupon (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1017 Queueing at Bank (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1023 Have Fun with Numbers (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1030 Travel Plan (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1042 Shuffling Machine (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1050 String Subtraction (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1048 Find Coins (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py" root0="SKIP_INSPECTION" />
@@ -237,16 +219,25 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1040 Longest Symmetric String (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1015 Reversible Primes (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1045 Favorite Color Stripe (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1012 The Best Rank (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30) 不建树.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1032 Sharing (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1031 Hello World for U (20.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1035 Password (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1039 Course List for Student (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1037 Magic Coupon (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1030 Travel Plan (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1042 Shuffling Machine (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1015 Reversible Primes (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1013 Battle Over Cities (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1012 The Best Rank (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1025 PAT Ranking (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1028 List Sorting (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1018 Public Bike Management (30).py" root0="SKIP_INSPECTION" />
@@ -254,17 +245,11 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1033 To Fill or Not to Fill (25) 贪心算法.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1127 ZigZagging on a Tree.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1034 Head of a Gang (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1032 Sharing (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1031 Hello World for U (20.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1035 Password (20).py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/解题目录.html" />
-        <option value="$PROJECT_DIR$/Advanced/解题目录.md" />
         <option value="$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1147 Heaps (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1147 Heaps (30) 不建树.py" />
@@ -313,6 +298,9 @@
         <option value="$PROJECT_DIR$/Advanced/1050 String Subtraction (20).py" />
         <option value="$PROJECT_DIR$/Advanced/1048 Find Coins (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" />
       </list>
     </option>
   </component>
@@ -345,6 +333,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -361,22 +365,6 @@
               <item name="PAT Advanced Level" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -411,51 +399,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1047 Student List for Course (25)">
-    <configuration name="1045 Favorite Color Stripe (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1045 Favorite Color Stripe (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1046 Shortest Distance (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1053 Path of Equal Weight">
     <configuration name="1047 Student List for Course (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -500,7 +444,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1050 String Subtraction (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1051 Pop Sequence (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -513,7 +457,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1050 String Subtraction (20).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1052 Linked List Sorting (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1053 Path of Equal Weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -523,19 +511,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1045 Favorite Color Stripe (30)" />
-      <item itemvalue="Python.1046 Shortest Distance (20)" />
-      <item itemvalue="Python.1050 String Subtraction (20)" />
       <item itemvalue="Python.1048 Find Coins (25)" />
       <item itemvalue="Python.1047 Student List for Course (25)" />
+      <item itemvalue="Python.1051 Pop Sequence (25)" />
+      <item itemvalue="Python.1052 Linked List Sorting (25)" />
+      <item itemvalue="Python.1053 Path of Equal Weight" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1053 Path of Equal Weight" />
+        <item itemvalue="Python.1052 Linked List Sorting (25)" />
+        <item itemvalue="Python.1051 Pop Sequence (25)" />
         <item itemvalue="Python.1047 Student List for Course (25)" />
         <item itemvalue="Python.1048 Find Coins (25)" />
-        <item itemvalue="Python.1050 String Subtraction (20)" />
-        <item itemvalue="Python.1046 Shortest Distance (20)" />
-        <item itemvalue="Python.1045 Favorite Color Stripe (30)" />
       </list>
     </recent_temporary>
   </component>
@@ -697,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535475423994</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="1046 1047 1048 1050 都是卡时间的题。用辅助数据结构优化时间。1048的优化方法需要熟练使用。">
+      <created>1535481664134</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1535481664134</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -706,8 +701,8 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Run" order="2" visible="true" weight="0.2580429" />
-      <window_info id="Debug" order="3" weight="0.31769437" />
+      <window_info active="true" id="Run" order="2" visible="true" weight="0.21983914" />
+      <window_info id="Debug" order="3" weight="0.34651473" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
@@ -718,11 +713,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008143" side_tool="true" weight="0.32624114" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.499501" weight="0.8978723" />
+      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.499501" weight="0.8184397" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.21648793" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.2191689" />
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -785,7 +780,8 @@
     <MESSAGE value="1044 利用都是正数的特点，二分比动态规划更快。" />
     <MESSAGE value="1045 动态规划,LIS,LCS, 二分法优化" />
     <MESSAGE value="1043 利用二叉搜索树的特性，直接进行前后序遍历转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="1043 利用二叉搜索树的特性，直接进行前后序遍历转换" />
+    <MESSAGE value="1046 1047 1048 1050 都是卡时间的题。用辅助数据结构优化时间。1048的优化方法需要熟练使用。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1046 1047 1048 1050 都是卡时间的题。用辅助数据结构优化时间。1048的优化方法需要熟练使用。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -810,6 +806,11 @@
           <line>16</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -823,27 +824,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1004 Counting Leaves (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30) 不建树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1003 Emergency (25) 优化.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1018 Public Bike Management (30).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -869,13 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="835">
           <caret line="332" selection-start-line="332" selection-end-line="332" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Professional Software/Python37/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="790" selection-start-line="790" selection-end-line="790" />
         </state>
       </provider>
     </entry>
@@ -1116,13 +1089,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -1134,10 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="17" column="70" lean-forward="true" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-          <folding>
-            <marker date="1535475369747" expanded="true" signature="1903:2277" ph="..." />
-            <marker date="1535475369747" expanded="true" signature="2710:2711" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,10 +1110,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        <state relative-caret-position="240">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1048 Find Coins (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1162,24 +1138,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1048 Find Coins (25).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="380">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
+    <entry file="file://D:/Professional Software/Python37/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="167">
+          <caret line="777" selection-start-line="777" selection-end-line="777" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
         </state>
       </provider>
     </entry>
