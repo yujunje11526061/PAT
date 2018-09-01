@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1064 利用好二叉搜索树和完全二叉树的结构特征，节点数和层数的关系等。&#10;1068 背包问题。递归穷举法，改变递归的出口形式可以输出最优解，所有解，统计个数等，动态规划法能做，但是价值的比较，dp表的更新比较耗时，需要列表拼接。">
-      <change afterPath="$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1087 最短路径三权值问题，统计第一权总和相等的解个数，输出满足三权最优的路径。Dijkstra初删+统计，dfs回溯找最优+递归传列表构造路径。比较综合。">
+      <change afterPath="$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +37,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1044_Shopping_in_Mars__25__.coverage" NAME="1044 Shopping in Mars (25) 二分法 Coverage Results" MODIFIED="1535410814582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1052_Linked_List_Sorting__25_.coverage" NAME="1052 Linked List Sorting (25) Coverage Results" MODIFIED="1535527548712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1145_Hashing___Average_Search_Time__25_.coverage" NAME="1145 Hashing - Average Search Time (25) Coverage Results" MODIFIED="1534577282105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1076_Forwards_on_Weibo__30_.coverage" NAME="1076 Forwards on Weibo (30) Coverage Results" MODIFIED="1535771100879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533564339447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1022_Digital_Library__30_.coverage" NAME="1022 Digital Library (30) Coverage Results" MODIFIED="1534709732633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1042_Shuffling_Machine__20_.coverage" NAME="1042 Shuffling Machine (20) Coverage Results" MODIFIED="1535210917054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -82,14 +84,14 @@
     <session id="1338149440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="4" />
+          <entry key="project.open.time.21" value="5" />
           <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -98,7 +100,7 @@
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -106,7 +108,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="122" />
+          <entry key="py" value="126" />
           <entry key="pyi" value="2" />
           <entry key="xml" value="1" />
         </counts>
@@ -115,7 +117,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="122" />
+          <entry key="Python" value="126" />
           <entry key="PythonStub" value="2" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -125,25 +127,37 @@
         <counts>
           <entry key="Python Console" value="2454" />
           <entry key="dummy" value="52" />
-          <entry key="py" value="67971" />
-          <entry key="txt" value="1236" />
+          <entry key="py" value="68760" />
+          <entry key="txt" value="1321" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1288" />
-          <entry key="Python" value="70425" />
+          <entry key="PLAIN_TEXT" value="1373" />
+          <entry key="Python" value="71214" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+            <state relative-caret-position="387">
+              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <marker date="1535771485625" expanded="true" signature="339:344" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -231,6 +245,7 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1042 Shuffling Machine (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题动态规划找最优.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py" root0="SKIP_INSPECTION" />
@@ -252,7 +267,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1023 Have Fun with Numbers (20).py" />
         <option value="$PROJECT_DIR$/Advanced/1024 Palindromic Number (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1027 Colors in Mars (20).py" />
         <option value="$PROJECT_DIR$/Advanced/1018 Public Bike Management (30).py" />
@@ -302,6 +316,7 @@
         <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题穷举法找最优.py" />
         <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题穷举所有组合并按某种序输出.py" />
         <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题动态规划找最优.py" />
+        <option value="$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py" />
       </list>
     </option>
@@ -401,29 +416,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1087 All Roads Lead to Rome (30)">
-    <configuration name="1057 Stack (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1057 Stack (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1076 Forwards on Weibo (30)">
     <configuration name="1064 Complete Binary Search Tree (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -512,6 +505,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1076 Forwards on Weibo (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1087 All Roads Lead to Rome (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -535,19 +550,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1057 Stack (30)" />
       <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
       <item itemvalue="Python.1068 Find More Coins (30)" />
       <item itemvalue="Python.1068 Find More Coins (30) 背包问题动态规划法" />
       <item itemvalue="Python.1087 All Roads Lead to Rome (30)" />
+      <item itemvalue="Python.1076 Forwards on Weibo (30)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1076 Forwards on Weibo (30)" />
         <item itemvalue="Python.1087 All Roads Lead to Rome (30)" />
         <item itemvalue="Python.1068 Find More Coins (30) 背包问题动态规划法" />
         <item itemvalue="Python.1068 Find More Coins (30)" />
         <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
-        <item itemvalue="Python.1057 Stack (30)" />
       </list>
     </recent_temporary>
   </component>
@@ -737,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535649231166</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="1087 最短路径三权值问题，统计第一权总和相等的解个数，输出满足三权最优的路径。Dijkstra初删+统计，dfs回溯找最优+递归传列表构造路径。比较综合。">
+      <created>1535732785996</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535732785997</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -746,7 +768,7 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Run" order="2" visible="true" weight="0.30938125" />
+      <window_info id="Run" order="2" weight="0.30938125" />
       <window_info id="Debug" order="3" weight="0.3957086" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -762,7 +784,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.22854291" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.23103793" />
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -829,7 +851,8 @@
     <MESSAGE value="1051 堆栈的运用&#10;1052 注意结点不在链表上&#10;1053 树状图的遍历，边遍历边统计信息" />
     <MESSAGE value="1057 树状数组，二分法，lowbit(x)的运用。" />
     <MESSAGE value="1064 利用好二叉搜索树和完全二叉树的结构特征，节点数和层数的关系等。&#10;1068 背包问题。递归穷举法，改变递归的出口形式可以输出最优解，所有解，统计个数等，动态规划法能做，但是价值的比较，dp表的更新比较耗时，需要列表拼接。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1064 利用好二叉搜索树和完全二叉树的结构特征，节点数和层数的关系等。&#10;1068 背包问题。递归穷举法，改变递归的出口形式可以输出最优解，所有解，统计个数等，动态规划法能做，但是价值的比较，dp表的更新比较耗时，需要列表拼接。" />
+    <MESSAGE value="1087 最短路径三权值问题，统计第一权总和相等的解个数，输出满足三权最优的路径。Dijkstra初删+统计，dfs回溯找最优+递归传列表构造路径。比较综合。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1087 最短路径三权值问题，统计第一权总和相等的解个数，输出满足三权最优的路径。Dijkstra初删+统计，dfs回溯找最优+递归传列表构造路径。比较综合。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -864,6 +887,11 @@
           <line>55</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -882,13 +910,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 直接排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1038 Recover the Smallest Number (30) 二叉搜索树的插入和遍历.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="386">
@@ -1144,13 +1165,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/_collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1055 The World's Richest (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -1239,10 +1253,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="194" column="8" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1535771485625" expanded="true" signature="339:344" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1087 All Roads Lead to Rome (30).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
+        <state relative-caret-position="387">
+          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
         </state>
       </provider>
     </entry>

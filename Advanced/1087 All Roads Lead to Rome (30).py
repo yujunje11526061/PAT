@@ -74,8 +74,12 @@ def dfs(e, s, xl):
     ll.append(e)
     pre = path[p]
     for i in pre:
-        dfs(i, s, ll)
+        if vi[i] == 0:
+            vi[i] = 1
+            dfs(i, s, ll)
 
+vi = [0] * N
+vi[end] = 1
 dfs(end, 0, [])
 final = None
 length = inf
