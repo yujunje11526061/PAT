@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1131 复杂条件最短路，Dijkstra初筛，然后dfs或者bfs">
       <change afterPath="$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30) 两遍遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1102 Invert a Binary Tree (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,7 +50,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1022_Digital_Library__30_.coverage" NAME="1022 Digital Library (30) Coverage Results" MODIFIED="1534709732633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1042_Shuffling_Machine__20_.coverage" NAME="1042 Shuffling Machine (20) Coverage Results" MODIFIED="1535210917054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1080_Graduate_Admission__30_.coverage" NAME="1080 Graduate Admission (30) Coverage Results" MODIFIED="1535777652954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1099_Build_A_Binary_Search_Tree__30_.coverage" NAME="1099 Build A Binary Search Tree (30) Coverage Results" MODIFIED="1535912883378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1099_Build_A_Binary_Search_Tree__30_.coverage" NAME="1099 Build A Binary Search Tree (30) Coverage Results" MODIFIED="1535921774153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1131_Subway_Map__30_.coverage" NAME="1131 Subway Map (30) Coverage Results" MODIFIED="1535816182607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1146_Topological_Order__25_.coverage" NAME="1146 Topological Order (25) Coverage Results" MODIFIED="1534571305715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1041_Be_Unique__20_.coverage" NAME="1041 Be Unique (20) Coverage Results" MODIFIED="1535208861356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -89,7 +90,9 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1087_All_Roads_Lead_to_Rome__30_.coverage" NAME="1087 All Roads Lead to Rome (30) Coverage Results" MODIFIED="1535732323119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1003_Emergency__25__.coverage" NAME="1003 Emergency (25) 优化 Coverage Results" MODIFIED="1533656037250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1047_Student_List_for_Course__25_.coverage" NAME="1047 Student List for Course (25) Coverage Results" MODIFIED="1535481565224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1138_Postorder_Traversal__25_.coverage" NAME="1138 Postorder Traversal (25) Coverage Results" MODIFIED="1535924827267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1056_Mice_and_Rice__25_.coverage" NAME="1056 Mice and Rice (25) Coverage Results" MODIFIED="1535537884550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1102_Invert_a_Binary_Tree__25_.coverage" NAME="1102 Invert a Binary Tree (25) Coverage Results" MODIFIED="1535923674080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1017_Queueing_at_Bank__25_.coverage" NAME="1017 Queueing at Bank (25) Coverage Results" MODIFIED="1534713214492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1012_The_Best_Rank__25_.coverage" NAME="1012 The Best Rank (25) Coverage Results" MODIFIED="1534256042500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1028_List_Sorting__25_.coverage" NAME="1028 List Sorting (25) Coverage Results" MODIFIED="1534780557836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -98,14 +101,14 @@
     <session id="1338149440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="5" />
+          <entry key="project.open.time.21" value="6" />
           <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -114,7 +117,7 @@
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -122,7 +125,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="149" />
+          <entry key="py" value="152" />
           <entry key="pyi" value="2" />
           <entry key="xml" value="1" />
         </counts>
@@ -131,7 +134,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="149" />
+          <entry key="Python" value="152" />
           <entry key="PythonStub" value="2" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -139,16 +142,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2859" />
+          <entry key="Python Console" value="2872" />
           <entry key="dummy" value="80" />
-          <entry key="py" value="85623" />
-          <entry key="txt" value="1568" />
+          <entry key="py" value="87511" />
+          <entry key="txt" value="1613" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1648" />
-          <entry key="Python" value="88482" />
+          <entry key="PLAIN_TEXT" value="1693" />
+          <entry key="Python" value="90383" />
         </counts>
       </usages-collector>
     </session>
@@ -158,23 +161,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="900">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
-                <marker date="1535914677484" expanded="true" signature="59:216" ph="..." />
+                <marker date="1535922050426" expanded="true" signature="218:375" ph="..." />
+                <marker date="1535922050426" expanded="true" signature="568:689" ph="..." />
+                <marker date="1535922050426" expanded="true" signature="568:690" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30) 两遍遍历.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/1102 Invert a Binary Tree (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-              <folding>
-                <marker date="1535916663549" expanded="true" signature="1863:1864" ph="..." />
-              </folding>
+            <state relative-caret-position="380">
+              <caret line="19" column="19" lean-forward="true" selection-end-line="49" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -202,6 +213,7 @@
       <find>N</find>
       <find>ll</find>
       <find>l</find>
+      <find>id</find>
     </findStrings>
     <replaceStrings>
       <replace>elem</replace>
@@ -212,6 +224,7 @@
       <replace>i</replace>
       <replace>queue</replace>
       <replace>seq</replace>
+      <replace>key</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -267,10 +280,12 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1115 Counting Nodes in a BST (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1042 Shuffling Machine (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1131 Subway Map (30) 直接DFS(不建议).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1147 Heaps (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1131 Subway Map (30) Dijkstra.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1102 Invert a Binary Tree (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1143 Lowest Common Ancestor (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1076 Forwards on Weibo (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1080 Graduate Admission (30).py" root0="SKIP_INSPECTION" />
@@ -296,8 +311,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1070 Mooncake  (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/1031 Hello World for U (20.py" />
         <option value="$PROJECT_DIR$/Advanced/1032 Sharing (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1029 Median (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1035 Password (20).py" />
@@ -344,9 +357,11 @@
         <option value="$PROJECT_DIR$/Advanced/1119 Pre- and Post-order Traversals (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1115 Counting Nodes in a BST (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1091 Acute Stroke (30).py" />
-        <option value="$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30) 两遍遍历.py" />
+        <option value="$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py" />
+        <option value="$PROJECT_DIR$/Advanced/1102 Invert a Binary Tree (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py" />
       </list>
     </option>
   </component>
@@ -357,7 +372,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="986" />
+    <option name="x" value="985" />
     <option name="y" value="45" />
     <option name="width" value="1530" />
     <option name="height" value="1270" />
@@ -379,22 +394,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -411,6 +410,22 @@
               <item name="PAT Advanced Level" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -445,7 +460,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1099 Build A Binary Search Tree (30)">
+  <component name="RunManager" selected="Python.1138 Postorder Traversal (25)">
     <configuration name="1091 Acute Stroke (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -490,7 +505,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1115 Counting Nodes in a BST (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1102 Invert a Binary Tree (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -503,29 +518,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1115 Counting Nodes in a BST (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1119 Pre- and Post-order Traversals (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1119 Pre- and Post-order Traversals (30).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1102 Invert a Binary Tree (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -556,20 +549,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1138 Postorder Traversal (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1119 Pre- and Post-order Traversals (30)" />
-      <item itemvalue="Python.1115 Counting Nodes in a BST (30)" />
       <item itemvalue="Python.1135 Is It A Red-Black Tree (30) 两遍遍历" />
       <item itemvalue="Python.1091 Acute Stroke (30)" />
       <item itemvalue="Python.1099 Build A Binary Search Tree (30)" />
+      <item itemvalue="Python.1102 Invert a Binary Tree (25)" />
+      <item itemvalue="Python.1138 Postorder Traversal (25)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1138 Postorder Traversal (25)" />
+        <item itemvalue="Python.1102 Invert a Binary Tree (25)" />
         <item itemvalue="Python.1099 Build A Binary Search Tree (30)" />
         <item itemvalue="Python.1091 Acute Stroke (30)" />
         <item itemvalue="Python.1135 Is It A Red-Black Tree (30) 两遍遍历" />
-        <item itemvalue="Python.1115 Counting Nodes in a BST (30)" />
-        <item itemvalue="Python.1119 Pre- and Post-order Traversals (30)" />
       </list>
     </recent_temporary>
   </component>
@@ -794,7 +809,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535910104944</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="1135 理解红黑树的定义是关键，外部结点也算黑！然后把不同条件分开处理，搞在一起太混乱。">
+      <created>1535916728262</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1535916728262</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -803,7 +825,7 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Run" order="2" weight="0.37874252" />
+      <window_info active="true" id="Run" order="2" visible="true" weight="0.37874252" />
       <window_info id="Debug" order="3" weight="0.35728544" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -819,7 +841,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.1746507" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.1761477" />
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -862,7 +884,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/PAT-Advanced-Level" />
     </ignored-roots>
-    <MESSAGE value="1145 Hashing - Average Search Time 平方探测法散列&#10;1146 Topological Order 检查是否时拓扑序列&#10;1147 Heaps 堆的判定以及后续遍历。不建树更快。" />
     <MESSAGE value="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。" />
     <MESSAGE value="1021 Deepest Root (25) 双重DFS找树状图中的最大距离,并查集判连通&#10;1022 Digital Library (30) 大型字典的构造,空间换时间" />
     <MESSAGE value="1017 Queueing at Bank 两个优先队列,同时弹出,计算时间差.&#10;其余题均为数字游戏,利用python处理字符串的优势." />
@@ -887,7 +908,8 @@
     <MESSAGE value="1080 排序&#10;1123 模板题，AVL树的插入与调整，层序遍历，完全二叉树的节点特征" />
     <MESSAGE value="1131 复杂条件最短路，Dijkstra初筛，然后dfs或者bfs" />
     <MESSAGE value="1091 三维空间结点的遍历统计&#10;1115 插入过程中顺便记录每层的个数和最大层数&#10;1119 前序后序得中序，利用好前序头==后序尾&#10;1143 利用搜索树值的大小特征不难找，但是极度退化的树时递归爆栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="1091 三维空间结点的遍历统计&#10;1115 插入过程中顺便记录每层的个数和最大层数&#10;1119 前序后序得中序，利用好前序头==后序尾&#10;1143 利用搜索树值的大小特征不难找，但是极度退化的树时递归爆栈" />
+    <MESSAGE value="1135 理解红黑树的定义是关键，外部结点也算黑！然后把不同条件分开处理，搞在一起太混乱。" />
+    <option name="LAST_COMMIT_MESSAGE" value="1135 理解红黑树的定义是关键，外部结点也算黑！然后把不同条件分开处理，搞在一起太混乱。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -945,20 +967,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1042 Shuffling Machine (20).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1039 Course List for Student (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1040 Longest Symmetric String (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1204,17 +1212,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1131 Subway Map (30) Dijkstra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#262#280#0" expanded="true" />
-            <marker date="1535826893115" expanded="true" signature="698:1335" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1131 Subway Map (30) 直接DFS(不建议).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="743">
@@ -1306,23 +1303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="66" column="16" lean-forward="true" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1535914677484" expanded="true" signature="59:216" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30).py" />
     <entry file="file://$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30) 两遍遍历.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1330,6 +1311,43 @@
           <folding>
             <marker date="1535916663549" expanded="true" signature="1863:1864" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1131 Subway Map (30) Dijkstra.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#262#280#0" expanded="true" />
+            <marker date="1535826893115" expanded="true" signature="698:1335" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1099 Build A Binary Search Tree (30).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <marker date="1535922050426" expanded="true" signature="218:375" ph="..." />
+            <marker date="1535922050426" expanded="true" signature="568:689" ph="..." />
+            <marker date="1535922050426" expanded="true" signature="568:690" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1102 Invert a Binary Tree (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="19" lean-forward="true" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
