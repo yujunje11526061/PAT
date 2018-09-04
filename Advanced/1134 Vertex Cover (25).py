@@ -22,7 +22,7 @@ N,M = map(int, input().split())
 #     else:
 #         print('Yes')
 
-# 这样勉强过三个点
+# 这样勉强过4个点，碰到超时题可以多提交几次看看
 edgeset = set()
 for _ in range(M):
     i,j = map(int, input().split())
@@ -30,7 +30,8 @@ for _ in range(M):
 
 K = int(input())
 for query in range(K):
-    num,*seq = map(int, input().split())
+    seq = map(int, input().split())
+    next(seq)
     seq = set(seq)
     # tempset = set()
     flag = 1
