@@ -9,7 +9,7 @@ def find_symmetric_substring(s):
     if n == 2:
         return 2 if s[0] == s[1] else 1
     i, j, k = 0, 1, 2
-    maxlen = 1
+    maxlen = 2 if s[i]==s[j] else 1
     while k<= n-1:
         if s[k] == s[j]:
             l = 2
