@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1034 1142 集合的运用&#10;别的在于审题。">
-      <change afterPath="$PROJECT_DIR$/Advanced/0000二分法三种形式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1058 A+B in Hogwarts (20).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1059 Prime Factors (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1079 Total Sales of Supply Chain (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1083 List Grades (25).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="0000 二分法三种形式&#10;1059 分解质因数">
+      <change afterPath="$PROJECT_DIR$/Advanced/1060 Are They Equal (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1062 Talent and Virtue (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1063 Set Similarity (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1093 Count PAT's (25).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced/1134 Vertex Cover (25).py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/1134 Vertex Cover (25).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +40,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1076_Forwards_on_Weibo__30_.coverage" NAME="1076 Forwards on Weibo (30) Coverage Results" MODIFIED="1535771100879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1080_Graduate_Admission__30_.coverage" NAME="1080 Graduate Admission (30) Coverage Results" MODIFIED="1535777652954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1099_Build_A_Binary_Search_Tree__30_.coverage" NAME="1099 Build A Binary Search Tree (30) Coverage Results" MODIFIED="1535921774153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1066_Root_of_AVL_Tree__25_.coverage" NAME="1066 Root of AVL Tree (25) Coverage Results" MODIFIED="1536150733023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1107_Social_Clusters__30__BFS.coverage" NAME="1107 Social Clusters (30) BFS Coverage Results" MODIFIED="1535977371596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1131_Subway_Map__30_.coverage" NAME="1131 Subway Map (30) Coverage Results" MODIFIED="1535816182607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1146_Topological_Order__25_.coverage" NAME="1146 Topological Order (25) Coverage Results" MODIFIED="1534571305715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -61,6 +59,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1141_PAT_Ranking_of_Institutions__25_.coverage" NAME="1141 PAT Ranking of Institutions (25) Coverage Results" MODIFIED="1536047207792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1044_Shopping_in_Mars__25_.coverage" NAME="1044 Shopping in Mars (25) Coverage Results" MODIFIED="1535397512806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1091_Acute_Stroke__30_.coverage" NAME="1091 Acute Stroke (30) Coverage Results" MODIFIED="1535909485841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1062_Talent_and_Virtue__25_.coverage" NAME="1062 Talent and Virtue (25) Coverage Results" MODIFIED="1536135276807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1034_Head_of_a_Gang__30_.coverage" NAME="1034 Head of a Gang (30) Coverage Results" MODIFIED="1534962917729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1143_Lowest_Common_Ancestor__30_.coverage" NAME="1143 Lowest Common Ancestor (30) Coverage Results" MODIFIED="1535879827832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1136_A_Delayed_Palindrome__20_.coverage" NAME="1136 A Delayed Palindrome (20) Coverage Results" MODIFIED="1536060768951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -72,6 +71,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1123_Is_It_a_Complete_AVL_Tree__30_.coverage" NAME="1123 Is It a Complete AVL Tree (30) Coverage Results" MODIFIED="1535801936177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1050_String_Subtraction__20_.coverage" NAME="1050 String Subtraction (20) Coverage Results" MODIFIED="1535477307374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1026_Table_Tennis__30_.coverage" NAME="1026 Table Tennis (30) Coverage Results" MODIFIED="1535387773033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1060_Are_They_Equal__25_.coverage" NAME="1060 Are They Equal (25) Coverage Results" MODIFIED="1536143785945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1087_All_Roads_Lead_to_Rome__30_.coverage" NAME="1087 All Roads Lead to Rome (30) Coverage Results" MODIFIED="1535732323119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1138_Postorder_Traversal__25_.coverage" NAME="1138 Postorder Traversal (25) Coverage Results" MODIFIED="1535927445222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1137_Final_Grading__25_.coverage" NAME="1137 Final Grading (25) Coverage Results" MODIFIED="1536059500794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -101,6 +101,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1059_Prime_Factors__25_.coverage" NAME="1059 Prime Factors (25) Coverage Results" MODIFIED="1536084331373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1031_Hello_World_for_U__20.coverage" NAME="1031 Hello World for U (20 Coverage Results" MODIFIED="1535117614769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1140_Look_and_say_Sequence__20_.coverage" NAME="1140 Look-and-say Sequence (20) Coverage Results" MODIFIED="1536052445961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1093_Count_PAT_s__25_.coverage" NAME="1093 Count PAT's (25) Coverage Results" MODIFIED="1536148483491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1079_Total_Sales_of_Supply_Chain__25_.coverage" NAME="1079 Total Sales of Supply Chain (25) Coverage Results" MODIFIED="1536078682147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1037_Magic_Coupon__25_.coverage" NAME="1037 Magic Coupon (25) Coverage Results" MODIFIED="1535271057165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1115_Counting_Nodes_in_a_BST__30_.coverage" NAME="1115 Counting Nodes in a BST (30) Coverage Results" MODIFIED="1535895373107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -109,6 +110,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30__.coverage" NAME="1038 Recover the Smallest Number (30) 直接排序 Coverage Results" MODIFIED="1535044454762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1070_Mooncake___25_.coverage" NAME="1070 Mooncake  (25) Coverage Results" MODIFIED="1535036180665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25__.coverage" NAME="1043 Is It a Binary Search Tree (25) 改进算法 Coverage Results" MODIFIED="1535377899199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1063_Set_Similarity__25_.coverage" NAME="1063 Set Similarity (25) Coverage Results" MODIFIED="1536131754890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1018_Public_Bike_Management__30_.coverage" NAME="1018 Public Bike Management (30) Coverage Results" MODIFIED="1534773533940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1013_Battle_Over_Cities__25_.coverage" NAME="1013 Battle Over Cities (25) Coverage Results" MODIFIED="1534257280577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1051_Pop_Sequence__25_.coverage" NAME="1051 Pop Sequence (25) Coverage Results" MODIFIED="1535525436793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -124,7 +126,7 @@
     <session id="1338149440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="43" />
+          <entry key="project.closed" value="44" />
           <entry key="project.open.time.0" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="3" />
@@ -133,7 +135,7 @@
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="6" />
-          <entry key="project.open.time.22" value="4" />
+          <entry key="project.open.time.22" value="5" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="2" />
@@ -141,15 +143,16 @@
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="46" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="7" value="1" />
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="207" />
+          <entry key="py" value="213" />
           <entry key="pyi" value="4" />
           <entry key="xml" value="1" />
         </counts>
@@ -158,7 +161,8 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
-          <entry key="Python" value="207" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="213" />
           <entry key="PythonStub" value="4" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -166,48 +170,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="3583" />
+          <entry key="Python Console" value="3670" />
           <entry key="dummy" value="94" />
-          <entry key="py" value="107454" />
-          <entry key="txt" value="1969" />
+          <entry key="py" value="112536" />
+          <entry key="txt" value="1989" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2063" />
-          <entry key="Python" value="111037" />
+          <entry key="PLAIN_TEXT" value="2083" />
+          <entry key="Python" value="116206" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="38" column="48" lean-forward="true" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/0000二分法三种形式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="126">
+              <caret line="94" column="18" lean-forward="true" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
               <folding>
-                <marker date="1536090826204" expanded="true" signature="433:438" ph="..." />
-                <marker date="1536090826204" expanded="true" signature="817:822" ph="..." />
+                <marker date="1536150722597" expanded="true" signature="783:1932" ph="..." />
               </folding>
             </state>
           </provider>
@@ -238,6 +223,7 @@
       <find>id</find>
       <find>r[2]</find>
       <find>l</find>
+      <find>2</find>
     </findStrings>
     <replaceStrings>
       <replace>elem</replace>
@@ -250,6 +236,7 @@
       <replace>key</replace>
       <replace>io</replace>
       <replace>seq</replace>
+      <replace>1</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -261,33 +248,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Advanced/1041 Be Unique (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1024 Palindromic Number (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1036 Boys vs Girls (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1054 The Dominant Color (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1017 Queueing at Bank (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1057 Stack (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1023 Have Fun with Numbers (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1055 The World's Richest (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1056 Mice and Rice (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1050 String Subtraction (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1048 Find Coins (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1016 Phone Bills (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 二分法.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1046 Shortest Distance (20).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1040 Longest Symmetric String (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1093 Count PAT's (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1045 Favorite Color Stripe (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1044 Shopping in Mars (25) 简单模拟+动态规划.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25).py" root0="SKIP_INSPECTION" />
@@ -296,6 +264,9 @@
     <setting file="file://$PROJECT_DIR$/Advanced/0000二分法三种形式.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1060 Are They Equal (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1063 Set Similarity (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1062 Talent and Virtue (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1032 Sharing (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1031 Hello World for U (20.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1058 A+B in Hogwarts (20).py" root0="SKIP_INSPECTION" />
@@ -353,15 +324,31 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1127 ZigZagging on a Tree.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1034 Head of a Gang (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1020 Tree Traversals (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1041 Be Unique (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1024 Palindromic Number (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1036 Boys vs Girls (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1019 General Palindromic Number (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1054 The Dominant Color (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1051 Pop Sequence (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1086 Tree Traversals Again (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1052 Linked List Sorting (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1017 Queueing at Bank (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1057 Stack (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1023 Have Fun with Numbers (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1026 Table Tennis (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1021 Deepest Root (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1055 The World's Richest (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1056 Mice and Rice (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1047 Student List for Course (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1055 The World's Richest (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/1056 Mice and Rice (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/1057 Stack (30).py" />
-        <option value="$PROJECT_DIR$/Advanced/1064 Complete Binary Search Tree (30).py" />
-        <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30).py" />
         <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题穷举法.py" />
         <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题动态规划法.py" />
         <option value="$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题穷举法找最优.py" />
@@ -408,6 +395,11 @@
         <option value="$PROJECT_DIR$/Advanced/0000二分法三种形式.py" />
         <option value="$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py" />
+        <option value="$PROJECT_DIR$/Advanced/1063 Set Similarity (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1062 Talent and Virtue (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1060 Are They Equal (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1093 Count PAT's (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py" />
       </list>
     </option>
   </component>
@@ -419,7 +411,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="600" />
-    <option name="y" value="52" />
+    <option name="y" value="51" />
     <option name="width" value="1530" />
     <option name="height" value="1270" />
   </component>
@@ -440,22 +432,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -472,6 +448,22 @@
               <item name="PAT Advanced Level" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PAT Advanced Level" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Advanced" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -506,8 +498,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1084 Broken Keyboard (20)">
-    <configuration name="1058 A+B in Hogwarts (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1066 Root of AVL Tree (25)">
+    <configuration name="1060 Are They Equal (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -520,7 +512,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1058 A+B in Hogwarts (20).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1060 Are They Equal (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -529,7 +521,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1059 Prime Factors (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1062 Talent and Virtue (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -542,7 +534,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1059 Prime Factors (25).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1062 Talent and Virtue (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -551,7 +543,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1083 List Grades (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1063 Set Similarity (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -564,7 +556,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1083 List Grades (25).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1063 Set Similarity (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -573,7 +565,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1084 Broken Keyboard (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1066 Root of AVL Tree (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -586,7 +578,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -595,7 +587,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1098 Insertion or Heap Sort (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1093 Count PAT's (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -608,7 +600,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1093 Count PAT's (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -618,19 +610,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1058 A+B in Hogwarts (20)" />
-      <item itemvalue="Python.1059 Prime Factors (25)" />
-      <item itemvalue="Python.1083 List Grades (25)" />
-      <item itemvalue="Python.1098 Insertion or Heap Sort (25)" />
-      <item itemvalue="Python.1084 Broken Keyboard (20)" />
+      <item itemvalue="Python.1063 Set Similarity (25)" />
+      <item itemvalue="Python.1062 Talent and Virtue (25)" />
+      <item itemvalue="Python.1060 Are They Equal (25)" />
+      <item itemvalue="Python.1093 Count PAT's (25)" />
+      <item itemvalue="Python.1066 Root of AVL Tree (25)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1084 Broken Keyboard (20)" />
-        <item itemvalue="Python.1098 Insertion or Heap Sort (25)" />
-        <item itemvalue="Python.1083 List Grades (25)" />
-        <item itemvalue="Python.1059 Prime Factors (25)" />
-        <item itemvalue="Python.1058 A+B in Hogwarts (20)" />
+        <item itemvalue="Python.1066 Root of AVL Tree (25)" />
+        <item itemvalue="Python.1093 Count PAT's (25)" />
+        <item itemvalue="Python.1060 Are They Equal (25)" />
+        <item itemvalue="Python.1062 Talent and Virtue (25)" />
+        <item itemvalue="Python.1063 Set Similarity (25)" />
       </list>
     </recent_temporary>
   </component>
@@ -904,7 +896,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536063326332</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="0000 二分法三种形式&#10;10">
+      <created>1536092355207</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1536092355207</updated>
+    </task>
+    <task id="LOCAL-00039" summary="0000 二分法三种形式&#10;1059 分解质因数">
+      <created>1536092459462</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1536092459462</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -913,23 +919,23 @@
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Run" order="2" visible="true" weight="0.25748503" />
-      <window_info id="Debug" order="3" weight="0.46307385" />
+      <window_info active="true" id="Run" order="2" visible="true" weight="0.35778442" />
+      <window_info id="Debug" order="3" weight="0.3283433" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32930514" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.32930514" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49918568" weight="0.30614302" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49918568" weight="0.16817725" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501996" side_tool="true" weight="0.20946626" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.498004" visible="true" weight="0.22155085" />
+      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.498004" visible="true" weight="0.29909366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.18562874" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.18762475" />
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -972,8 +978,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/PAT-Advanced-Level" />
     </ignored-roots>
-    <MESSAGE value="1034 Head of a Gang 并查集，也可并查集+DFS" />
-    <MESSAGE value="1033 To Fill or Not to Fill 贪心算法，走一步看一步，不同情况不同策略。" />
     <MESSAGE value="1070. Mooncake 直接贪心&#10;1038. Recover the Smallest Number 想到是排序规则的变形就好做。" />
     <MESSAGE value=" 低分值的题仔细读题。尤其输出是对输出的要求，看清楚要输出什么，单复数等。单复数问题经常出现。一部仔细就错了" />
     <MESSAGE value="1041 序列中找到一个不重复的元素，生成器，有序字典&#10;1042 两个容器倒来倒去，类似归并的并，可以直接交换引用对象来简化理解&#10;1049 数学问题，通过数学递推式来优化时间，无脑遍历必超时。math库的使用" />
@@ -997,7 +1001,9 @@
     <MESSAGE value="1072 多轮Dijkstra，按优先级删选&#10;1073 考虑各种情况就是&#10;1103 背包问题的变形，注意上下界的选取&#10;1111 Dijkstra，双权值，来两轮" />
     <MESSAGE value="1039 集合的交集差集，注意加入自己&#10;1042 集合操作" />
     <MESSAGE value="1034 1142 集合的运用&#10;别的在于审题。" />
-    <option name="LAST_COMMIT_MESSAGE" value="1034 1142 集合的运用&#10;别的在于审题。" />
+    <MESSAGE value="0000 二分法三种形式&#10;10" />
+    <MESSAGE value="0000 二分法三种形式&#10;1059 分解质因数" />
+    <option name="LAST_COMMIT_MESSAGE" value="0000 二分法三种形式&#10;1059 分解质因数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1044,11 +1050,6 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="l" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -1080,42 +1081,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1119 Pre- and Post-order Traversals (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1115 Counting Nodes in a BST (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="17" column="11" lean-forward="true" selection-end-line="41" selection-end-column="37" />
-          <folding>
-            <marker date="1535895373058" expanded="true" signature="171:253" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30).py" />
-    <entry file="file://$PROJECT_DIR$/Advanced/1135 Is It A Red-Black Tree (30) 两遍遍历.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1131 Subway Map (30) Dijkstra.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#262#280#0" expanded="true" />
-            <marker date="1535826893115" expanded="true" signature="698:1335" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1143 Lowest Common Ancestor (30).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
@@ -1316,9 +1281,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="21" column="44" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="21" selection-end-column="44" />
-          <folding>
-            <marker date="1536059627275" expanded="true" signature="95:100" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1366,16 +1328,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1059 Prime Factors (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#45#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1059 Prime Factors (25).py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="20" column="33" lean-forward="true" selection-end-line="56" />
         </state>
@@ -1388,13 +1340,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1083 List Grades (25).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="38" column="48" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <marker date="1536085915692" expanded="true" signature="256:261" ph="..." />
-          </folding>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -1409,17 +1365,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1098 Insertion or Heap Sort (25).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1083 List Grades (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="38" column="48" lean-forward="true" selection-end-line="47" />
+        <state relative-caret-position="279">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding>
+            <marker date="1536085915692" expanded="true" signature="256:261" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1084 Broken Keyboard (20).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1063 Set Similarity (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-end-line="14" />
+        <state relative-caret-position="200">
+          <caret line="10" column="18" lean-forward="true" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1062 Talent and Virtue (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="41" lean-forward="true" selection-end-line="36" />
+          <folding>
+            <marker date="1536133344465" expanded="true" signature="96:153" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1093 Count PAT's (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1060 Are They Equal (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="94" column="18" lean-forward="true" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding>
+            <marker date="1536150722597" expanded="true" signature="783:1932" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
