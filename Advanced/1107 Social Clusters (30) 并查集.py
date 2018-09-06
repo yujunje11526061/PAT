@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 '''
  利用好默认字典
+ 并查集规范写法，看1118
 '''
 from collections import defaultdict
 
