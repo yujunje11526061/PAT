@@ -11,7 +11,7 @@ for _ in range(M):
     table[i].append([w, f, j])
     table[j].append([w, f, i])
 
-def Dijkstra(start, end):
+def Dijkstra(start, end): # 双权值最短路径
     inf =float('inf')
     visited = [0]*N
     dist = [inf]*N

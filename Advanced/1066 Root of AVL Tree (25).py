@@ -7,14 +7,12 @@ def ll(a):
     a.bf = b.bf = 0
     return b
 
-
 def rr(a):
     b = a.right
     a.right = b.left
     b.left = a
     a.bf = b.bf = 0
     return b
-
 
 def lr(a, b):
     c = b.right
@@ -31,7 +29,6 @@ def lr(a, b):
         a.bf = 0
     c.bf = 0
     return c
-
 
 def rl(a, b):
     c = b.left

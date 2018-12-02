@@ -29,7 +29,6 @@ inf = float('inf')
 
 def Dijkstra(s, e):
     visited = [0] * N
-
     dist = [inf] * N
     dist[s] = 0
     h = [0] * N
