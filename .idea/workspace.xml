@@ -4,9 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/Advanced/1122 Hamiltonian Cycle (25).py" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1108 Finding Average (20)">
-      <change afterPath="$PROJECT_DIR$/Advanced/1112 Stucked Keyboard (20).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="1112 Stucked Keyboard (20)">
+      <change afterPath="$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25)  递归实现.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1077 Kuchiguse (20).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/1088 Rational Arithmetic (20).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +35,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1151_LCA_in_a_Binary_Tree__30_.coverage" NAME="1151 LCA in a Binary Tree (30) Coverage Results" MODIFIED="1543725917495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1127_ZigZagging_on_a_Tree.coverage" NAME="1127 ZigZagging on a Tree Coverage Results" MODIFIED="1534783581403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1116_Come_on__Let_s_C__20_.coverage" NAME="1116 Come on! Let's C (20) Coverage Results" MODIFIED="1536214030459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1077_Kuchiguse__20_.coverage" NAME="1077 Kuchiguse (20) Coverage Results" MODIFIED="1543948319233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1046_Shortest_Distance__20_.coverage" NAME="1046 Shortest Distance (20) Coverage Results" MODIFIED="1535476984584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1131_Subway_Map__30__Dijkstra.coverage" NAME="1131 Subway Map (30) Dijkstra Coverage Results" MODIFIED="1535828311436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1101_Quick_Sort__25_.coverage" NAME="1101 Quick Sort (25) Coverage Results" MODIFIED="1536310219724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -42,7 +47,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1044_Shopping_in_Mars__25__.coverage" NAME="1044 Shopping in Mars (25) 二分法 Coverage Results" MODIFIED="1535410814582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1135_Is_It_A_Red_Black_Tree__30__.coverage" NAME="1135 Is It A Red-Black Tree (30) 两遍遍历 Coverage Results" MODIFIED="1535902003965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1052_Linked_List_Sorting__25_.coverage" NAME="1052 Linked List Sorting (25) Coverage Results" MODIFIED="1535527548712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1112_Stucked_Keyboard__20_.coverage" NAME="1112 Stucked Keyboard (20) Coverage Results" MODIFIED="1543939596477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1112_Stucked_Keyboard__20_.coverage" NAME="1112 Stucked Keyboard (20) Coverage Results" MODIFIED="1543944000886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1145_Hashing___Average_Search_Time__25_.coverage" NAME="1145 Hashing - Average Search Time (25) Coverage Results" MODIFIED="1534577282105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1076_Forwards_on_Weibo__30_.coverage" NAME="1076 Forwards on Weibo (30) Coverage Results" MODIFIED="1535771100879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1080_Graduate_Admission__30_.coverage" NAME="1080 Graduate Admission (30) Coverage Results" MODIFIED="1535777652954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -60,7 +65,8 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1055_The_World_s_Richest__25_.coverage" NAME="1055 The World's Richest (25) Coverage Results" MODIFIED="1535534369593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1095_Cars_on_Campus__30_.coverage" NAME="1095 Cars on Campus (30) Coverage Results" MODIFIED="1535966256830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1139_First_Contact__30_.coverage" NAME="1139 First Contact (30) Coverage Results" MODIFIED="1536041560408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1049_Counting_Ones__30_.coverage" NAME="1049 Counting Ones (30) Coverage Results" MODIFIED="1535215264694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1088_Rational_Arithmetic__20_.coverage" NAME="1088 Rational Arithmetic (20) Coverage Results" MODIFIED="1543944997191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1049_Counting_Ones__30_.coverage" NAME="1049 Counting Ones (30) Coverage Results" MODIFIED="1544102759356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1118_Birds_in_Forest__25_.coverage" NAME="1118 Birds in Forest (25) Coverage Results" MODIFIED="1536246389475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1073_Scientific_Notation__20_.coverage" NAME="1073 Scientific Notation (20) Coverage Results" MODIFIED="1535997070947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1032_Sharing__25_.coverage" NAME="1032 Sharing (25) Coverage Results" MODIFIED="1535120425345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -103,6 +109,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1108_Finding_Average__20_.coverage" NAME="1108 Finding Average (20) Coverage Results" MODIFIED="1543936647492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1025_PAT_Ranking__25_.coverage" NAME="1025 PAT Ranking (25) Coverage Results" MODIFIED="1534780512424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1009_Product_of_Polynomials__25.coverage" NAME="1009 Product of Polynomials (25） Coverage Results" MODIFIED="1533571459424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1066_Root_of_AVL_Tree__25___.coverage" NAME="1066 Root of AVL Tree (25)  递归实现 Coverage Results" MODIFIED="1544103505098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1024_Palindromic_Number__25_.coverage" NAME="1024 Palindromic Number (25) Coverage Results" MODIFIED="1534715297550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30_.coverage" NAME="1038 Recover the Smallest Number (30) Coverage Results" MODIFIED="1535043003415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1120_Friend_Numbers__20_.coverage" NAME="1120 Friend Numbers (20) Coverage Results" MODIFIED="1536170660291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -165,7 +172,7 @@
     <session id="1338149440">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="58" />
           <entry key="project.open.time.0" value="11" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="3" />
@@ -175,15 +182,15 @@
           <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.21" value="7" />
           <entry key="project.open.time.22" value="7" />
-          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.25" value="3" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="59" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -192,7 +199,7 @@
           <entry key="JavaScript-modules-diagram/D:/CS/PAT" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="308" />
+          <entry key="py" value="320" />
           <entry key="pyi" value="4" />
           <entry key="xml" value="1" />
         </counts>
@@ -202,7 +209,7 @@
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="308" />
+          <entry key="Python" value="320" />
           <entry key="PythonStub" value="4" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -210,45 +217,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="3980" />
+          <entry key="Python Console" value="4048" />
           <entry key="dummy" value="94" />
-          <entry key="py" value="139401" />
-          <entry key="txt" value="2653" />
+          <entry key="py" value="142127" />
+          <entry key="txt" value="2657" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2747" />
-          <entry key="Python" value="143381" />
+          <entry key="PLAIN_TEXT" value="2751" />
+          <entry key="Python" value="146175" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/0000二分法三种形式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Advanced/1108 Finding Average (20).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Advanced/1112 Stucked Keyboard (20).py">
+        <entry file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25)  递归实现.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="341">
+              <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -381,6 +370,7 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1115 Counting Nodes in a BST (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1042 Shuffling Machine (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1107 Social Clusters (30) 并查集.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25)  递归实现.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1107 Social Clusters (30) BFS.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1138 Postorder Traversal (25).py" root0="SKIP_INSPECTION" />
@@ -434,7 +424,9 @@
     <setting file="file://$PROJECT_DIR$/Advanced/1014 Waiting in Line (30).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1145 Hashing - Average Search Time (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1146 Topological Order (25).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1077 Kuchiguse (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1112 Stucked Keyboard (20).py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Advanced/1088 Rational Arithmetic (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1108 Finding Average (20).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1117 Eddington Number (25).py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Advanced/1078 Hashing (25).py" root0="SKIP_INSPECTION" />
@@ -447,12 +439,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1062 Talent and Virtue (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/1060 Are They Equal (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/1093 Count PAT's (25).py" />
-        <option value="$PROJECT_DIR$/Advanced/1092 To Buy or Not to Buy (20).py" />
-        <option value="$PROJECT_DIR$/Advanced/1069 The Black Hole of Numbers (20).py" />
-        <option value="$PROJECT_DIR$/Advanced/1067 Sort with Swap(0, i) (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1075 PAT Judge (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1071 Speech Patterns (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1081 Rational Sum (20).py" />
@@ -498,6 +484,12 @@
         <option value="$PROJECT_DIR$/Advanced/1025 PAT Ranking (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1108 Finding Average (20).py" />
         <option value="$PROJECT_DIR$/Advanced/1112 Stucked Keyboard (20).py" />
+        <option value="$PROJECT_DIR$/Advanced/1088 Rational Arithmetic (20).py" />
+        <option value="$PROJECT_DIR$/Advanced/1077 Kuchiguse (20).py" />
+        <option value="$PROJECT_DIR$/Advanced/1022 Digital Library (30).py" />
+        <option value="$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py" />
+        <option value="$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py" />
+        <option value="$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25)  递归实现.py" />
       </list>
     </option>
   </component>
@@ -508,10 +500,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="50" />
-    <option name="y" value="71" />
-    <option name="width" value="1428" />
-    <option name="height" value="1328" />
+    <option name="x" value="38" />
+    <option name="y" value="43" />
+    <option name="width" value="1430" />
+    <option name="height" value="1330" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -597,8 +589,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1112 Stucked Keyboard (20)">
-    <configuration name="1017 Queueing at Bank (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1066 Root of AVL Tree (25)  递归实现">
+    <configuration name="1049 Counting Ones (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -611,7 +603,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1017 Queueing at Bank (25).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -620,7 +612,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1108 Finding Average (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1066 Root of AVL Tree (25)  递归实现" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -633,7 +625,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1108 Finding Average (20).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25)  递归实现.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1077 Kuchiguse (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1077 Kuchiguse (20).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1088 Rational Arithmetic (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1088 Rational Arithmetic (20).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -664,64 +700,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1151 LCA in a Binary Tree (30) 判左右法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1151 LCA in a Binary Tree (30) 判左右法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1151 LCA in a Binary Tree (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1151 LCA in a Binary Tree (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.1151 LCA in a Binary Tree (30)" />
-      <item itemvalue="Python.1151 LCA in a Binary Tree (30) 判左右法" />
-      <item itemvalue="Python.1017 Queueing at Bank (25)" />
-      <item itemvalue="Python.1108 Finding Average (20)" />
       <item itemvalue="Python.1112 Stucked Keyboard (20)" />
+      <item itemvalue="Python.1088 Rational Arithmetic (20)" />
+      <item itemvalue="Python.1077 Kuchiguse (20)" />
+      <item itemvalue="Python.1066 Root of AVL Tree (25)  递归实现" />
+      <item itemvalue="Python.1049 Counting Ones (30)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1066 Root of AVL Tree (25)  递归实现" />
+        <item itemvalue="Python.1049 Counting Ones (30)" />
+        <item itemvalue="Python.1077 Kuchiguse (20)" />
+        <item itemvalue="Python.1088 Rational Arithmetic (20)" />
         <item itemvalue="Python.1112 Stucked Keyboard (20)" />
-        <item itemvalue="Python.1108 Finding Average (20)" />
-        <item itemvalue="Python.1017 Queueing at Bank (25)" />
-        <item itemvalue="Python.1151 LCA in a Binary Tree (30) 判左右法" />
-        <item itemvalue="Python.1151 LCA in a Binary Tree (30)" />
       </list>
     </recent_temporary>
   </component>
@@ -735,13 +727,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533390169077</updated>
-    </task>
-    <task id="LOCAL-00001" summary="1012 The Best Rank 类对象按不同类属性分别排序">
-      <created>1534180748596</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1534180748596</updated>
     </task>
     <task id="LOCAL-00002" summary="1012 The Best Rank 类对象按不同类属性分别排序">
       <created>1534181527567</created>
@@ -1079,16 +1064,23 @@
       <option name="project" value="LOCAL" />
       <updated>1543937055611</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="1112 Stucked Keyboard (20)">
+      <created>1543939719402</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1543939719403</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="57" width="1142" height="1062" extended-state="0" />
+    <frame x="31" y="35" width="1144" height="1064" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" id="Run" order="2" visible="true" weight="0.4095941" />
+      <window_info active="true" id="Run" order="2" visible="true" weight="0.4088398" />
       <window_info id="Debug" order="3" weight="0.39022142" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32930514" />
@@ -1100,11 +1092,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.502994" side_tool="true" weight="0.3242699" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.497006" weight="0.23573735" />
+      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.497006" weight="0.23523094" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" weight="0.27398524" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="3" weight="0.27900553" />
       <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Graphics" order="6" />
@@ -1147,7 +1139,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/PAT-Advanced-Level" />
     </ignored-roots>
-    <MESSAGE value="1064 利用好二叉搜索树和完全二叉树的结构特征，节点数和层数的关系等。&#10;1068 背包问题。递归穷举法，改变递归的出口形式可以输出最优解，所有解，统计个数等，动态规划法能做，但是价值的比较，dp表的更新比较耗时，需要列表拼接。" />
     <MESSAGE value="1087 最短路径三权值问题，统计第一权总和相等的解个数，输出满足三权最优的路径。Dijkstra初删+统计，dfs回溯找最优+递归传列表构造路径。比较综合。" />
     <MESSAGE value="1087 DFS补充visited表&#10;1076 带层数限制的广度优先搜索。注意return的时机和每个节点的层数记录。" />
     <MESSAGE value="1080 排序&#10;1123 模板题，AVL树的插入与调整，层序遍历，完全二叉树的节点特征" />
@@ -1172,7 +1163,8 @@
     <MESSAGE value="1078 二次方探测&#10;1114 并查集+统计排序&#10;1121 集合" />
     <MESSAGE value="add 1149,1150,1151" />
     <MESSAGE value="1108 Finding Average (20)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1108 Finding Average (20)" />
+    <MESSAGE value="1112 Stucked Keyboard (20)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1112 Stucked Keyboard (20)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1280,65 +1272,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1126 Eulerian Path (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="9" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1125 Chain the Ropes (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1124 Raffle for Weibo Followers (20).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1082 Read Number in Chinese (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1122 Hamiltonian Cycle (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="27" lean-forward="true" selection-end-line="28" />
-          <folding>
-            <marker date="1536308324378" expanded="true" signature="223:528" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1115 Counting Nodes in a BST (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1104 Sum of Number Segments (20).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="27" lean-forward="true" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1121 Damn Single (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="4" selection-end-line="25" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1114 Family Property (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="463">
@@ -1491,13 +1424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="111" lean-forward="true" selection-start-line="90" selection-start-column="17" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1068 Find More Coins (30) 背包问题穷举法找最优.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -1544,9 +1470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="63" column="22" selection-start-line="48" selection-start-column="4" selection-end-line="63" selection-end-column="22" />
-          <folding>
-            <marker date="1543742891161" expanded="true" signature="1125:1975" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1602,24 +1525,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/0000二分法三种形式.py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1022 Digital Library (30).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        <state relative-caret-position="263">
+          <caret line="91" column="9" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1108 Finding Average (20).py">
+    <entry file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25).py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1077 Kuchiguse (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="360">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1088 Rational Arithmetic (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <marker date="1543944981958" expanded="true" signature="677:682" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1112 Stucked Keyboard (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        <state relative-caret-position="140">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1108 Finding Average (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="62" column="19" lean-forward="true" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/0000二分法三种形式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1066 Root of AVL Tree (25)  递归实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
         </state>
       </provider>
     </entry>
