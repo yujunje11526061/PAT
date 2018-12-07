@@ -33,7 +33,7 @@ post = []
 stack = [(0, N - 1, 0, N - 1)]
 while len(stack) > 0:
     si, ei, sp, ep = stack.pop()
-    if si == ei:  # 虽然相等的情况在压栈前已经处理掉了，但是这是为了处理根，认为地让他前后相等
+    if si == ei:  # 虽然相等的情况在压栈前已经处理掉了，但是这是为了处理根，人为地让他前后相等
         post.append(io[si])
     if len(post) > 0:  # 只要后序有东西了，就可以提前退出
         break

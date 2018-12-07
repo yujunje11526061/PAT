@@ -125,6 +125,7 @@ dock = []
 while len(q) > 0:
     item = q.popleft()
     dock.append(item)
+    # 其实可以更简单，一旦出现孩子为空的结点NoneArrise就标记为1，后面每次出现孩子为非空情况，看NoneArise是否已经为空了。若已经为空则不是完全二叉树。
     # 以完全二叉树的样子去编号，利用完全二叉树的编号特征这一知识点
     if item.left is not None and item.right is not None:
         item.left.seq = item.seq * 2 + 1

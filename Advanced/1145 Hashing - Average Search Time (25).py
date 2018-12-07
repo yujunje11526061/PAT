@@ -25,8 +25,9 @@ def isprime(n):
             return False
     return True
 
-
-if MS % 2 == 0:
+if MS<=2:
+    MS =2
+elif MS % 2 == 0:
     MS += 1
 
 while not isprime(MS):
