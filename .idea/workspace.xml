@@ -4,9 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/Advanced/1122 Hamiltonian Cycle (25).py" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="新增几个常见问题">
-      <change afterPath="$PROJECT_DIR$/Advanced/1007 Maximum Subsequence Sum (25).py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="连续子数组的最大和，及其区间坐标，动态规划">
+      <change afterPath="$PROJECT_DIR$/Advanced/滑动窗口的最大值.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1095_Cars_on_Campus__30_.coverage" NAME="1095 Cars on Campus (30) Coverage Results" MODIFIED="1535966256830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1139_First_Contact__30_.coverage" NAME="1139 First Contact (30) Coverage Results" MODIFIED="1536041560408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1088_Rational_Arithmetic__20_.coverage" NAME="1088 Rational Arithmetic (20) Coverage Results" MODIFIED="1543944997191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1049_Counting_Ones__30_.coverage" NAME="1049 Counting Ones (30) Coverage Results" MODIFIED="1544102759356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1049_Counting_Ones__30_.coverage" NAME="1049 Counting Ones (30) Coverage Results" MODIFIED="1551371742706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1118_Birds_in_Forest__25_.coverage" NAME="1118 Birds in Forest (25) Coverage Results" MODIFIED="1536246389475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1073_Scientific_Notation__20_.coverage" NAME="1073 Scientific Notation (20) Coverage Results" MODIFIED="1535997070947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1032_Sharing__25_.coverage" NAME="1032 Sharing (25) Coverage Results" MODIFIED="1535120425345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -147,7 +148,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1133_Splitting_A_Linked_List__25_.coverage" NAME="1133 Splitting A Linked List (25) Coverage Results" MODIFIED="1536178698140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30__.coverage" NAME="1038 Recover the Smallest Number (30) 直接排序 Coverage Results" MODIFIED="1535044454762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1151_LCA_in_a_Binary_Tree__30__.coverage" NAME="1151 LCA in a Binary Tree (30) 判左右法 Coverage Results" MODIFIED="1543741636500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$.coverage" NAME="平衡二叉树的插入优化解法 Coverage Results" MODIFIED="1551349573661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$.coverage" NAME="滑动窗口的最大值 Coverage Results" MODIFIED="1551382508375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1070_Mooncake___25_.coverage" NAME="1070 Mooncake  (25) Coverage Results" MODIFIED="1535036180665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25__.coverage" NAME="1043 Is It a Binary Search Tree (25) 改进算法 Coverage Results" MODIFIED="1535377899199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1081_Rational_Sum__20_.coverage" NAME="1081 Rational Sum (20) Coverage Results" MODIFIED="1536165603063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -200,7 +201,7 @@
           <entry key="cpp" value="1" />
           <entry key="html" value="1" />
           <entry key="md" value="2" />
-          <entry key="py" value="369" />
+          <entry key="py" value="372" />
           <entry key="pyi" value="4" />
           <entry key="xml" value="1" />
         </counts>
@@ -211,7 +212,7 @@
           <entry key="HTML" value="1" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="369" />
+          <entry key="Python" value="372" />
           <entry key="PythonStub" value="4" />
           <entry key="UML" value="1" />
           <entry key="XML" value="1" />
@@ -219,16 +220,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="4734" />
+          <entry key="Python Console" value="4849" />
           <entry key="dummy" value="122" />
-          <entry key="py" value="153147" />
-          <entry key="txt" value="2730" />
+          <entry key="py" value="153422" />
+          <entry key="txt" value="2756" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2852" />
-          <entry key="Python" value="157881" />
+          <entry key="PLAIN_TEXT" value="2878" />
+          <entry key="Python" value="158271" />
         </counts>
       </usages-collector>
     </session>
@@ -258,11 +259,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Advanced/1007 Maximum Subsequence Sum (25).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/_collections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3222">
+              <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Advanced/滑动窗口的最大值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="28" column="104" selection-start-line="28" selection-start-column="104" selection-end-line="28" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -494,8 +522,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Advanced/1100 Mars Numbers (20).py" />
-        <option value="$PROJECT_DIR$/Advanced/1096 Consecutive Factors (20).py" />
         <option value="$PROJECT_DIR$/Advanced/1107 Social Clusters (30) 并查集.py" />
         <option value="$PROJECT_DIR$/Advanced/1129 Recommendation System (25).py" />
         <option value="$PROJECT_DIR$/Advanced/1128 N Queens Puzzle (20).py" />
@@ -545,6 +571,8 @@
         <option value="$PROJECT_DIR$/Advanced/平衡二叉树的插入优化版递归写法.py" />
         <option value="$PROJECT_DIR$/Advanced/TOP N问题的三种解法.py" />
         <option value="$PROJECT_DIR$/Advanced/1007 Maximum Subsequence Sum (25).py" />
+        <option value="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" />
+        <option value="$PROJECT_DIR$/Advanced/滑动窗口的最大值.py" />
       </list>
     </option>
   </component>
@@ -649,8 +677,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1007 Maximum Subsequence Sum (25)">
-    <configuration name="字符串的全排列" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.滑动窗口的最大值">
+    <configuration name="滑动窗口的最大值" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -663,7 +691,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/字符串的全排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/滑动窗口的最大值.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -686,6 +714,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1007 Maximum Subsequence Sum (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1049 Counting Ones (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT Advanced Level" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -738,28 +788,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="平衡二叉树的插入优化解法" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT Advanced Level" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\CS\PAT\Advanced\平衡二叉树的插入优化版递归写法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="TOP N问题的三种解法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT Advanced Level" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -783,19 +811,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.字符串的全排列" />
       <item itemvalue="Python.TOP N问题的三种解法" />
-      <item itemvalue="Python.平衡二叉树的插入优化解法" />
       <item itemvalue="Python.1066 Root of AVL Tree (25)  递归实现" />
       <item itemvalue="Python.1007 Maximum Subsequence Sum (25)" />
+      <item itemvalue="Python.1049 Counting Ones (30)" />
+      <item itemvalue="Python.滑动窗口的最大值" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.滑动窗口的最大值" />
+        <item itemvalue="Python.1049 Counting Ones (30)" />
         <item itemvalue="Python.1007 Maximum Subsequence Sum (25)" />
         <item itemvalue="Python.TOP N问题的三种解法" />
         <item itemvalue="Python.1066 Root of AVL Tree (25)  递归实现" />
-        <item itemvalue="Python.平衡二叉树的插入优化解法" />
-        <item itemvalue="Python.字符串的全排列" />
       </list>
     </recent_temporary>
   </component>
@@ -809,13 +837,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533390169077</updated>
-    </task>
-    <task id="LOCAL-00006" summary="1145 Hashing - Average Search Time 平方探测法散列&#10;1146 Topological Order 检查是否时拓扑序列&#10;1147 Heaps 堆的判定以及后续遍历。不建树更快。">
-      <created>1534579678731</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1534579678731</updated>
     </task>
     <task id="LOCAL-00007" summary="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。">
       <created>1534684612864</created>
@@ -1153,7 +1174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551357877304</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="连续子数组的最大和，及其区间坐标，动态规划">
+      <created>1551371050616</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1551371050616</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1175,7 +1203,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.502994" side_tool="true" weight="0.3242699" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.497006" weight="0.3736153" />
+      <window_info anchor="bottom" x="-1920" y="23" width="1536" height="801" id="Python Console" order="10" sideWeight="0.497006" visible="true" weight="0.3736153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1221,7 +1249,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/PAT-Advanced-Level" />
     </ignored-roots>
-    <MESSAGE value="1091 三维空间结点的遍历统计&#10;1115 插入过程中顺便记录每层的个数和最大层数&#10;1119 前序后序得中序，利用好前序头==后序尾&#10;1143 利用搜索树值的大小特征不难找，但是极度退化的树时递归爆栈" />
     <MESSAGE value="1135 理解红黑树的定义是关键，外部结点也算黑！然后把不同条件分开处理，搞在一起太混乱。" />
     <MESSAGE value="1099 利用搜索树的终于遍历对应的排序顺序&#10;1102 输入建树的时候就把左右孩子反过来认就好了&#10;1138 只要输出后序第一个数，故可以不转完，后序有第一个数了就提前退出。" />
     <MESSAGE value="1138 修改为手写栈以免递归爆栈。字典加速index的查找。" />
@@ -1246,7 +1273,8 @@
     <MESSAGE value="优化" />
     <MESSAGE value="1131 DFS过程的优化。二维数组转化为散列表或一维数组实现存储优化。" />
     <MESSAGE value="新增几个常见问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增几个常见问题" />
+    <MESSAGE value="连续子数组的最大和，及其区间坐标，动态规划" />
+    <option name="LAST_COMMIT_MESSAGE" value="连续子数组的最大和，及其区间坐标，动态规划" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1369,27 +1397,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Advanced/1053 Path of Equal Weight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1043 Is It a Binary Search Tree (25) 改进算法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/1134 Vertex Cover (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1698,6 +1705,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="18" column="105" selection-start-line="18" selection-start-column="105" selection-end-line="18" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="30" column="26" lean-forward="true" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1426819053/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3222">
+          <caret line="81" column="6" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Advanced/滑动窗口的最大值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="104" selection-start-line="28" selection-start-column="104" selection-end-line="28" selection-end-column="104" />
         </state>
       </provider>
     </entry>

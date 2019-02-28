@@ -28,3 +28,4 @@ while n>0:
     n = b
 
 print(total)
+from collections import deque
