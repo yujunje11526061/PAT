@@ -6,7 +6,7 @@ l = map(int,input().split())
 class node():
     def __init__(self,key):
         self.key =key
-        # self.height = 1 # 此属性其实没用，可以没有。
+        self.height = 1
         self.left = None
         self.right = None
 
@@ -16,22 +16,24 @@ def getHeight(cnt:node): # 递归得到树高。不能取height属性。因为�
     if cnt is None:
         return 0
     else:
-        return max(getHeight(cnt.left),getHeight(cnt.right))+1
+        return cnt.height
 
 def singleLeftRotation(a:node)->node:
     b = a.left
     a.left = b.right
     b.right = a
-    # a.height =  getHeight(a)
-    # b.height =  getHeight(b)
+    # getHeight用于取存储的高度属性，减少重复计算，减少求高度的开销，max()+1是更新操作，每次树发生变化相关节点都要记得更新。
+    # 此处旋转后的低节点应先更新
+    a.height =  max(getHeight(a.left), getHeight(a.right)) + 1
+    b.height =  max(getHeight(b.left), getHeight(b.right)) + 1
     return b
 
 def singleRightRotation(a:node)->node:
     b = a.right
     a.right = b.left
     b.left = a
-    # a.height = getHeight(a)
-    # b.height = getHeight(b)
+    a.height = max(getHeight(a.left), getHeight(a.right)) + 1
+    b.height = max(getHeight(b.left), getHeight(b.right)) + 1
     return b
 
 def doubleLeftRightRotation(a):
@@ -49,7 +51,7 @@ def insert( x:node,root:node)->"返回新的树根":
         root = x
     elif x.key<root.key:
         root.left = insert(x, root.left)
-        if getHeight(root.left)-getHeight(root.right)==2:  # 插入后高度变化了。此处不能取height属性。而应该用getHeight函数
+        if getHeight(root.left)-getHeight(root.right)==2:  # 用getHeight函数是为处理空节点，直接取属性就报错了
             if(x.key<root.left.key):
                 root = singleLeftRotation(root)
             else:
@@ -61,7 +63,8 @@ def insert( x:node,root:node)->"返回新的树根":
                 root = doubleRightLeftRotation(root)
             else:
                 root = singleRightRotation(root)
-    # root.height = max(root.left.height,root.right.height)+1
+    # getHeight用于取存储的高度属性，减少重复计算，减少求高度的开销，max()+1是更新操作，每次树发生变化都要记得更新。
+    root.height = max(getHeight(root.left), getHeight(root.right)) + 1
     return root
 
 root =None

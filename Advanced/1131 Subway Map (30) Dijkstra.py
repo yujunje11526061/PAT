@@ -65,10 +65,10 @@ def DFS(node, temppath):
     global finalTransferNum,finalPath
     # 到达此node的信息在前一层都已经算清,此时判断该节点是就此终结还是继续扩展
     if node == start:
-        # 因为线路不多,到达目的地计算转乘次数比每次中间都算转乘次数要省时间,且把算判断转乘放在if语句最后面判断,即便此处到达目的地都要算两次.
-        if transfer(temppath) < finalTransferNum:
+        thistransferNum = transfer(temppath)
+        if thistransferNum < finalTransferNum:
             finalPath = list(temppath)
-            finalTransferNum = transfer(temppath)
+            finalTransferNum = thistransferNum
         return
     else:
         for j in path[node]:
