@@ -4,10 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/Advanced/1122 Hamiltonian Cycle (25).py" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="连续子数组的最大和，及其区间坐标，动态规划">
-      <change afterPath="$PROJECT_DIR$/Advanced/滑动窗口的最大值.py" afterDir="false" />
+    <list default="true" id="7237be50-1c44-4ee5-9f73-157b95c45f6a" name="Default" comment="数组滑动窗口的最大值，用双端队列记录已扫描的部分，减少重复扫描之前经过的部分。&#10;实现的关键在于想清楚主选位和次选位的更新。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/1049 Counting Ones (30).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/滑动窗口的最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/滑动窗口的最大值.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +147,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1133_Splitting_A_Linked_List__25_.coverage" NAME="1133 Splitting A Linked List (25) Coverage Results" MODIFIED="1536178698140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1038_Recover_the_Smallest_Number__30__.coverage" NAME="1038 Recover the Smallest Number (30) 直接排序 Coverage Results" MODIFIED="1535044454762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1151_LCA_in_a_Binary_Tree__30__.coverage" NAME="1151 LCA in a Binary Tree (30) 判左右法 Coverage Results" MODIFIED="1543741636500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$.coverage" NAME="滑动窗口的最大值 Coverage Results" MODIFIED="1551382508375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level$.coverage" NAME="滑动窗口的最大值 Coverage Results" MODIFIED="1551384256308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1070_Mooncake___25_.coverage" NAME="1070 Mooncake  (25) Coverage Results" MODIFIED="1535036180665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1043_Is_It_a_Binary_Search_Tree__25__.coverage" NAME="1043 Is It a Binary Search Tree (25) 改进算法 Coverage Results" MODIFIED="1535377899199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level$1081_Rational_Sum__20_.coverage" NAME="1081 Rational Sum (20) Coverage Results" MODIFIED="1536165603063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Advanced" />
@@ -222,14 +221,14 @@
         <counts>
           <entry key="Python Console" value="4849" />
           <entry key="dummy" value="122" />
-          <entry key="py" value="153422" />
-          <entry key="txt" value="2756" />
+          <entry key="py" value="153502" />
+          <entry key="txt" value="2827" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2878" />
-          <entry key="Python" value="158271" />
+          <entry key="PLAIN_TEXT" value="2949" />
+          <entry key="Python" value="158351" />
         </counts>
       </usages-collector>
     </session>
@@ -289,8 +288,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Advanced/滑动窗口的最大值.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="28" column="104" selection-start-line="28" selection-start-column="104" selection-end-line="28" selection-end-column="104" />
+            <state relative-caret-position="312">
+              <caret line="19" column="127" lean-forward="true" selection-start-line="19" selection-start-column="127" selection-end-line="19" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -838,13 +837,6 @@
       <option name="presentableId" value="Default" />
       <updated>1533390169077</updated>
     </task>
-    <task id="LOCAL-00007" summary="1020 1086 已知两种遍历，求二叉树的另两种遍历。递归！递归区间的处理是重点。">
-      <created>1534684612864</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1534684612864</updated>
-    </task>
     <task id="LOCAL-00008" summary="1021 Deepest Root (25) 双重DFS找树状图中的最大距离,并查集判连通&#10;1022 Digital Library (30) 大型字典的构造,空间换时间">
       <created>1534710022519</created>
       <option name="number" value="00008" />
@@ -1181,7 +1173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551371050616</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="数组滑动窗口的最大值，用双端队列记录已扫描的部分，减少重复扫描之前经过的部分。&#10;实现的关键在于想清楚主选位和次选位的更新。">
+      <created>1551383134422</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1551383134422</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1249,7 +1248,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/PAT-Advanced-Level" />
     </ignored-roots>
-    <MESSAGE value="1135 理解红黑树的定义是关键，外部结点也算黑！然后把不同条件分开处理，搞在一起太混乱。" />
     <MESSAGE value="1099 利用搜索树的终于遍历对应的排序顺序&#10;1102 输入建树的时候就把左右孩子反过来认就好了&#10;1138 只要输出后序第一个数，故可以不转完，后序有第一个数了就提前退出。" />
     <MESSAGE value="1138 修改为手写栈以免递归爆栈。字典加速index的查找。" />
     <MESSAGE value="1095 模拟题，注意细节，以及二分法找最优解的处理。&#10;1107 BFS比单纯并查集方法快，不用反复扫描。注意集合的union和update方法&#10;&#10;两题都用到了默认字典，方便高效。" />
@@ -1274,7 +1272,8 @@
     <MESSAGE value="1131 DFS过程的优化。二维数组转化为散列表或一维数组实现存储优化。" />
     <MESSAGE value="新增几个常见问题" />
     <MESSAGE value="连续子数组的最大和，及其区间坐标，动态规划" />
-    <option name="LAST_COMMIT_MESSAGE" value="连续子数组的最大和，及其区间坐标，动态规划" />
+    <MESSAGE value="数组滑动窗口的最大值，用双端队列记录已扫描的部分，减少重复扫描之前经过的部分。&#10;实现的关键在于想清楚主选位和次选位的更新。" />
+    <option name="LAST_COMMIT_MESSAGE" value="数组滑动窗口的最大值，用双端队列记录已扫描的部分，减少重复扫描之前经过的部分。&#10;实现的关键在于想清楚主选位和次选位的更新。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1724,8 +1723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Advanced/滑动窗口的最大值.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="28" column="104" selection-start-line="28" selection-start-column="104" selection-end-line="28" selection-end-column="104" />
+        <state relative-caret-position="312">
+          <caret line="19" column="127" lean-forward="true" selection-start-line="19" selection-start-column="127" selection-end-line="19" selection-end-column="127" />
         </state>
       </provider>
     </entry>
