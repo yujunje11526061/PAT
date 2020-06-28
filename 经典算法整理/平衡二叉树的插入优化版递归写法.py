@@ -37,7 +37,7 @@ class SearchTree:
                     pp.right = SearchTree.Node(x)
 
             if self.balance:
-                _, self.root, __ = self.getHeightAndRoot(self.root)
+                _, self.root, __ = self.adjustAndGetNewRoot(self.root)
 
         def LL_Rotate(self, node):
             l = node.left
@@ -59,15 +59,15 @@ class SearchTree:
             node.right = self.LL_Rotate(node.right)
             return self.RR_Rotate(node)
 
-        def getHeightAndRoot(self, node):
+        def adjustAndGetNewRoot(self, node):
             '''
             :param node:
             :return: (自身高度，当前树根，左子树高度-右子树高度)
             '''
             if node is None:
                 return (0, None, 0)
-            leftHeight, leftRoot, leftFlag = self.getHeightAndRoot(node.left)
-            rightHeight, rightRoot, rightFlag = self.getHeightAndRoot(node.right)
+            leftHeight, leftRoot, leftFlag = self.adjustAndGetNewRoot(node.left)
+            rightHeight, rightRoot, rightFlag = self.adjustAndGetNewRoot(node.right)
             node.left, node.right = leftRoot, rightRoot # 记得更新左右子树
             if leftHeight - rightHeight > 1:
                 if leftFlag == 1:
@@ -75,6 +75,7 @@ class SearchTree:
                 else:
                     newRoot = self.LR_Rotate(node)
                 return (leftHeight + rightHeight) // 2 + 1, newRoot, 0
+                # 调整后的高度一定是原来左右高的平均+1，不是最高+1
             elif leftHeight - rightHeight < -1:
                 if rightFlag == -1:
                     newRoot = self.RR_Rotate(node)
